@@ -1,0 +1,216 @@
+"Sekolah Citra Kasih, Samarinda",,,,,,,,,,,
+Room Name,Room Code,Item Category,Item Type,Item Name,Barcode,Qty,Unit,Date Added,Barcode Status,Status,Prefix
+Classroom,Room 101,Asset / Capex,AC,AC Daikin,SMDGAC1900005,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 101,Asset / Capex,AC,AC Daikin,SMDGAC1900006,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 101,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100001,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 101,Asset / Capex,PC,PC Rakitan i5,SMDIPC0000042,1,unit,2020-12-02,Active,Baik,IPC
+Classroom,Room 101,Asset / Capex,Projector,Projector Epson,SMDIPJ0000001,1,unit,2020-12-02,Active,Baik,IPJ
+Classroom,Room 102,Asset / Capex,AC,AC Daikin,SMDGAC1900007,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 102,Asset / Capex,AC,AC Daikin,SMDGAC1900008,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 102,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100003,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 102,Asset / Capex,BenQ Interactive Digital,BenQ Interactive Digital,SMDISB2300001,1,unit,2022-07-28,Active,Baik,ISB
+Classroom,Room 102,Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100006,1,Set,2018-07-10,Active,Baik,IPC
+Classroom,Room 102,Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000004,1,unit,2020-12-02,Active,Baik,IPN
+Classroom,Room 102,Asset / Capex,Projector,Projector Epson,SMDIPJ0000002,1,unit,2020-12-02,Active,Baik,IPJ
+Classroom,Room 102,Asset / Capex,Smartboard Viewsonic,Viewsonic 75' + Floorstanding OXIMUS,IBS25040001,1,unit,2025-03-07,Active,Baik,IBS
+Classroom,Room 103,Asset / Capex,AC,AC Daikin,SMDGAC1900009,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 103,Asset / Capex,AC,AC Daikin,SMDGAC1900010,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 103,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100002,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 103,Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100007,1,Set,2018-07-10,Active,Baik,IPC
+Classroom,Room 103,Asset / Capex,Printer,Printer Epson,SMDIPN2300001,1,unit,2018-07-10,Active,Baik,IPN
+Classroom,Room 103,Asset / Capex,Smartboard Viewsonic,Smartboard Viewsonic,SMDIBS2400001,1,unit,2024-03-04,Active,Baik,IBS
+Classroom,Room 108,Asset / Capex,AC,AC Daikin,SMDGAC1900013,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 108,Asset / Capex,AC,AC Daikin,SMDGAC1900014,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 108,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100004,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 108,Asset / Capex,Proyektor,Proyektor Benq MX560,SMDIPJ2400006,1,unit,2024-04-04,Active,Baik,IPJ
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900043,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900044,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900045,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900046,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000009,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Alesis Portable Piano Recital,SMDGAM2500016,1,unit,2025-08-08,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Ampli Gitar Cort CM-15R-BK,20030081,1,unit,2020-03-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Biola Lulea 3/4,SMDGAM2400018,1,unit,2024-06-12,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Drum Elektrik Yamaha DTX 452,GAM21060002,1,unit,2021-05-20,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Electric Bass Cort GB24JJ-2T,SMDGAM2300007,1,unit,2023-04-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Electric Guitar Cort CR-100-CRS,SMDGAM2300006,1,unit,2023-04-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300001,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300002,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300003,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300004,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300011,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300012,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Cort AC-100E-OP,20030082,1,unit,2020-03-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Valencia,SMDGAM1900001,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Casio CTX 800,SMDGAM2300009,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Casio CTX 800,SMDGAM2300010,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Yamaha PSR - E363,SMDGAM1900002,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Microphone Wireless Dusen Berg JTSS 633,SMDGAM2300014,1,unit,2020-06-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Mixer,SMDGAM2100001,1,unit,2021-07-19,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,MPK Midi Controler Original ,SMDGAM2400019,1,unit,2024-09-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,PERKUSI BARCHIME GVT-CH 363,SMDGAM2400014,2,unit,2024-05-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Roland Arranger Keyboard EX10 (stand Exclude),SMDGAM2500015,1,unit,2025-08-11,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Set Angklung Orkestra,SMDGAM1900004,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Set Angklung Orkestra,SMDGAM1900005,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,"Speaker Active Baretone 15""",SMDGAM2200001,1,unit,2020-06-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,GITAR,Gitar Bass Gilmore GFJ-60,GAM21040001,1,unit,2021-04-05,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Projector,Epson,SMDIPJ0000018,1,unit,2018-07-10,Active,Baik,IPJ
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200001,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200002,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200003,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC1900034,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC2300009,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC2300010,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300023,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300024,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300025,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300026,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300027,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300028,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300029,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300030,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300031,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300032,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300033,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300034,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300035,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300036,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300037,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300038,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300039,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300040,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300041,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300042,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300043,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300044,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300045,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300046,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300047,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300048,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300049,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300050,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300051,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300052,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Projector,Projector Epson,SMDIPJ2300005,1,unit,2020-12-02,Active,Baik,IPJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Stavol,Stavol Matsunaga  5000 watt ,SMDITV2400001,1,unit,2024-11-14,Active,Baik,ITV
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Unifi Switch ,Unifi Access Point HD ,SMDISW2400004,1,unit,2024-07-16,Active,Baik,ISW
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,UPS,UPS APC 10.000VA,SMDIUP2500001,1,unit,2025-05-05,Active,Baik,IUP
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Wireless Dongle,Epson Elpap 11 Wireless Dongle,SMDIWD2300001,1,unit,2023-11-09,Active,Baik,IWD
+Multi Purpose,Dance Room,Asset / Capex,AC,AC LG,SMDGAC1800004,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Dance Room,Asset / Capex,AC,AC LG,SMDGAC1800005,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Dance Room,Asset / Capex,Smartboard Viewsonic,Smartboard Viewsonic,SMDIBS2400002,1,unit,2024-03-04,Active,Baik,IBS
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,AC,AC Panasonic,SMDGAC1800010,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,AC,AC Panasonic,SMDGAC1800011,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000008,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,BenQ Interactive Digital,BenQ Interactive Digital,SMDISB2200001,1,unit,2022-07-28,Active,Baik,ISB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300022,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Printer,Printer EPSON L3210,SMDIPN2500002,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,ICT Laboratory(104),Asset / Capex,AC,AC LG,SMDGAC1800002,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,AC,AC LG,SMDGAC1800003,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300004,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300005,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300006,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300007,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300008,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300009,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300010,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300011,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300012,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300013,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300014,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300015,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300016,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300017,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300018,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300019,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300020,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300021,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400004,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400005,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400006,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400007,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400008,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400009,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400010,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400011,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400012,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400013,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400014,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400015,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400016,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400017,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400018,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Printer,Printer Epson,SMDIPN2300002,1,unit,2018-07-10,Active,Baik,IPN
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Projector,Projector Epson,SMDIPJ0000004,1,unit,2020-12-02,Active,Baik,IPJ
+Multi Purpose,ICT Laboratory(104),Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200006,1,unit,2019-03-14,Active,Baik,IPS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Stavol,Stavol Matsunaga  5000 watt ,SMDITV2400002,1,unit,2024-11-14,Active,Baik,ITV
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Unifi Switch ,Unifi Access Point HD ,SMDISW2400005,1,unit,2024-07-16,Active,Baik,ISW
+Multi Purpose,ICT Laboratory(104),Asset / Capex,UPS,UPS APC 10.000VA,SMDIUP2500002,1,unit,2025-05-05,Active,Baik,IUP
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900017,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900018,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900019,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900020,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2300002,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500001,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500002,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500003,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500004,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500005,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500006,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500007,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500008,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500009,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Positive Studio,Asset / Capex,AC,AC LG,SMDGAC1800006,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Positive Studio,Asset / Capex,Alat Musik,Behringer U-Phoria Studio,GAM21060001,1,unit,2021-05-20,Active,Baik,GAM
+Multi Purpose,Positive Studio,Asset / Capex,LED TV,TV Samsung,SMDITV2100001,1,unit,2020-07-08,Active,Baik,ITV
+Multi Purpose,Positive Studio,Asset / Capex,PC,PC Rakitan i5,SMDIPC0000041,1,unit,2020-12-02,Active,Baik,IPC
+Multi Purpose,Positive Studio,Asset / Capex,Sound System,Sound Card Behringer,SMDGSS2300002,1,unit,2023-07-28,Active,Baik,GSS
+Multi Purpose,Principals Office(203),Asset / Capex,AC,AC Panasonic,SMDGAC1800007,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Principals Office(203),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2400002,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Principals Office(203),Asset / Capex,DISPENSER AIR,Dispenser Miyako,SMDGDS1900001,1,unit,2020-12-14,Active,Baik,GDS
+Multi Purpose,Principals Office(203),Asset / Capex,LED TV,TV LG,SMDITV0000002,1,unit,2020-07-08,Active,Baik,ITV
+Multi Purpose,Principals Office(203),Asset / Capex,Printer,Printer EPSON L4260,SMDIPN2500001,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,Principals Office(203),Asset / Capex,Proyektor,Proyektor EPSON EB-X51,IPJ25080002,1,unit,2025-07-16,Active,Baik,IPJ
+Multi Purpose,Principals Office(203),Asset / Capex,Wireless Dongle,Epson Elpap 11 Wireless Dongle,SMDIWD2500001,1,unit,2023-11-09,Active,Baik,IWD
+Multi Purpose,School Information Center(105),Asset / Capex,AC,AC Daikin,SMDGAC1900011,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,School Information Center(105),Asset / Capex,AC,AC Daikin,SMDGAC1900012,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,School Information Center(105),Asset / Capex,AIO Acer Core i5,AIO Acer Core i5,SMDAIO2200001,1,unit,2022-10-11,Active,Baik,AIO
+Multi Purpose,School Information Center(105),Asset / Capex,Barcode Printer,Printer Barcode,SMDIBP2000001,1,unit,2020-12-02,Active,Baik,IBP
+Multi Purpose,School Information Center(105),Asset / Capex,Camera,Camera Canon EOS 3000D,SMDGCM1900003,1,unit,2020-12-14,Active,Baik,GCM
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Galaxy tab A9+ 5G/8-125gb,SMDIEC2400002,1,unit,2024-08-29,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone,SMDIEC2200001,1,unit,2022-06-16,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Lenovo,SMDIEC2000001,1,unit,2020-12-02,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Redmi Note 12 RAM 8 ROM 256,SMDIEC2300001,1,unit,2023-10-03,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Xiaomi,SMDIEC2000002,1,unit,2020-12-02,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Iphone 16 Pro,IEC25080002,1,unit,2025-07-23,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung A16,IEC25080001,1,unit,2025-07-09,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung A35 G5/8-256gb ,SMDIEC2400001,1,unit,2024-08-29,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Monitor AOC,Monitor AOC,SMDIMN2100001,1,unit,2021-08-05,Active,Baik,IMN
+Multi Purpose,School Information Center(105),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400002,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400003,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100004,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100005,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100008,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC Rakitan i5,SMDIPC2100003,1,unit,2020-12-02,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson,SMDIPN2300006,1,unit,2018-07-10,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000002,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000008,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson L1110,SMDIPN2100001,1,unit,2019-08-06,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer EPSON L3210,SMDIPN2500003,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer EPSON L5290,IPN25080001,1,unit,2025-07-23,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer HP Laserjet,SMDIPN2000006,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer HP Laserjet 150 NW,SMDIPN2500004,1,unit,2025-05-22,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer Barcode Brother,Printer Barcode Brother ,SMDIPB2500001,1,unit,2025-09-03,Active,Baik,IPB
+Multi Purpose,School Information Center(105),Asset / Capex,Scanner Epson,Scanner Epson,SMDISN2100001,1,unit,2021-06-17,Active,Baik,ISN
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,AC,AC Daikin,SMDGAC1900033,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,AC,"AC Split 1,5 PK",19100336,1,unit,2018-07-10,Active,Baik,GAC
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2300007,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900048,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900049,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900050,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2200005,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Projector,Projector Infocus ,SMDIPJ0000008,1,unit,2019-01-15,Active,Baik,IPJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,AC,AC Daikin,SMDGAC1900041,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,STEM Classroom - 307,Asset / Capex,AC,AC Daikin,SMDGAC1900042,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000007,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Projector,Projector Epson,SMDIPJ2200004,1,unit,2020-12-02,Active,Baik,IPJ
