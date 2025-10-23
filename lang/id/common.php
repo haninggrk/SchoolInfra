@@ -1,0 +1,80 @@
+<?php
+
+return [
+    // Common terms
+    'room' => 'Ruangan',
+    'rooms' => 'Ruangan',
+    'inventory' => 'Inventaris',
+    'item' => 'Barang',
+    'items' => 'Barang',
+    'status' => 'Status',
+    'name' => 'Nama',
+    'description' => 'Deskripsi',
+    'date' => 'Tanggal',
+    'time' => 'Waktu',
+    'action' => 'Aksi',
+    'actions' => 'Aksi',
+    'edit' => 'Edit',
+    'delete' => 'Hapus',
+    'save' => 'Simpan',
+    'cancel' => 'Batal',
+    'create' => 'Buat',
+    'update' => 'Perbarui',
+    'view' => 'Lihat',
+    'search' => 'Cari',
+    'filter' => 'Filter',
+    'export' => 'Ekspor',
+    'import' => 'Impor',
+    'add' => 'Tambah',
+    'remove' => 'Hapus',
+    'back' => 'Kembali ke',
+    'next' => 'Selanjutnya',
+    'previous' => 'Sebelumnya',
+    'loading' => 'Memuat...',
+    'no_data' => 'Tidak ada data',
+    'confirm' => 'Konfirmasi',
+    'yes' => 'Ya',
+    'no' => 'Tidak',
+    'success' => 'Berhasil',
+    'error' => 'Error',
+    'warning' => 'Peringatan',
+    'info' => 'Informasi',
+    'close' => 'Tutup',
+    'reset' => 'Reset',
+    'per_page' => 'Per Halaman',
+    
+    // Additional missing translations
+    'active' => 'Aktif',
+    'current_status' => 'Status Saat Ini',
+    'information' => 'Informasi',
+    'notes' => 'Catatan',
+    'update_status' => 'Perbarui Status',
+    
+    // Status values
+    'status_good' => 'Baik',
+    'status_damaged' => 'Rusak',
+    'status_repairing' => 'Dalam Perbaikan',
+    'status_new' => 'Baru',
+    'status_processing' => 'Sedang Diproses',
+    'status_completed' => 'Selesai',
+    'status_active' => 'Aktif',
+    'status_inactive' => 'Nonaktif',
+    'active' => 'Aktif',
+    'inactive' => 'Nonaktif',
+    
+    // Urgency levels
+    'urgency_low' => 'Rendah',
+    'urgency_medium' => 'Sedang',
+    'urgency_high' => 'Tinggi',
+    
+    // Categories
+    'category_electronic' => 'Elektronik',
+    'category_furniture' => 'Furnitur',
+    'category_other' => 'Lainnya',
+    
+    // Units
+    'unit_pcs' => 'Pcs',
+    'unit_unit' => 'Unit',
+    'unit_set' => 'Set',
+    'unit_piece' => 'Buah',
+];

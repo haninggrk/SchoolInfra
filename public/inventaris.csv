@@ -1,0 +1,1262 @@
+Room Name,Room Code,Item Category,Item Type,Item Name,Barcode,Qty,Unit,Date Added,Barcode Status,Status,Prefix
+Classroom,Room 101,Asset / Capex,AC,AC Daikin,SMDGAC1900005,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 101,Asset / Capex,AC,AC Daikin,SMDGAC1900006,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 101,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100001,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800188,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800197,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800208,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800210,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800243,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800244,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800245,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800246,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800247,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800248,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800249,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800251,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800252,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800254,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800255,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800257,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800258,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800259,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800260,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 101,Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800017,1,unit,2019-06-19,Active,Baik,GLM
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ1900064,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ1900065,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200148,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200149,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200178,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200179,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200180,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200181,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200182,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200185,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200187,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 101,Asset / Capex,Meja Guru,Meja 140X70,SMDGMS1800021,1,unit,2020-12-14,Active,Baik,GMG
+Classroom,Room 101,Asset / Capex,Meja Guru,Meja Guru,SMDGMG1800006,1,unit,2020-12-14,Active,Baik,GMG
+Classroom,Room 101,Asset / Capex,PC,PC Rakitan i5,SMDIPC0000042,1,unit,2020-12-02,Active,Baik,IPC
+Classroom,Room 101,Asset / Capex,Projector,Projector Epson,SMDIPJ0000001,1,unit,2020-12-02,Active,Baik,IPJ
+Classroom,Room 101,Asset / Capex,Rak,Rak 3 Kolom,SMDGRK1800029,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 101,Asset / Capex,Rak,Rak 3 Kolom,SMDGRK1800039,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 101,Asset / Capex,Rak,Rak Mainan 3 Kolom,SMDGRK1800079,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 101,Asset / Capex,Rak,Rak Sepatu 3 Pintu,SMDGRK1900009,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 101,Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200002,1,unit,2019-03-14,Active,Baik,IPS
+Classroom,Room 101,Asset / Capex,Sofa,Sofa Mini Anak ,SMDGSF2400001,1,unit,2024-12-03,Active,Baik,GSF
+Classroom,Room 101,Asset / Capex,Sofa,Sofa Mini Anak ,SMDGSF2400002,1,unit,2024-12-03,Active,Baik,GSF
+Classroom,Room 101,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800010,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 101,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800011,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 101,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800012,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 101,Asset / Capex,UKS,Box P3k,SMDGUK1800002,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 101,Asset / Capex,UKS,Timbangan Badan,SMDGUK1800008,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 101,Asset / Capex,WASTAFEL,Wastafel Toto,SMDGWP1800001,1,unit,2020-12-14,Active,Baik,GWP
+Classroom,Room 101,Asset / Capex,WhiteBoard,White Board 120x120,SMDGWB1800006,1,unit,2020-12-14,Active,Baik,GWB
+Classroom,Room 101,Asset / Capex,WhiteBoard,White Board 60x40,SMDGWB1800029,1,unit,2020-12-14,Active,Baik,GWB
+Classroom,Room 102,Asset / Capex,AC,AC Daikin,SMDGAC1900007,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 102,Asset / Capex,AC,AC Daikin,SMDGAC1900008,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 102,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100003,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 102,Asset / Capex,BenQ Interactive Digital,BenQ Interactive Digital,SMDISB2300001,1,unit,2022-07-28,Active,Baik,ISB
+Classroom,Room 102,Asset / Capex,braket Standing,braket Standing,SMDIBS2300001,1,unit,2023-05-03,Active,Baik,IBS
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Guru Beroda,SMDGKR1900168,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Guru Tanpa Roda,SMDGKR1900172,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800186,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800187,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800189,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800190,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800191,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800192,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800193,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800194,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800195,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800196,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800198,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800199,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800200,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800201,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800202,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800203,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800204,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800205,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800206,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800207,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800209,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800211,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800212,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 102,Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800018,1,unit,2019-06-19,Active,Baik,GLM
+Classroom,Room 102,Asset / Capex,Lemari,Spencer Cabinet Informa,GLM21070002,3,unit,2021-05-28,Active,Baik,GLM
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200137,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200140,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200146,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200155,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200157,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200164,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200165,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200166,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200167,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200168,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200169,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200170,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200171,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200172,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200173,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200174,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200175,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200176,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja office,Hatch Office Desk Informa,GMJ21060003,1,unit,2021-05-28,Active,Baik,GMJ
+Classroom,Room 102,Asset / Capex,Meja Siswa,Meja Yaris 60x60,SMDGMS1800124,1,unit,2020-12-14,Active,Baik,GMS
+Classroom,Room 102,Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100006,1,Set,2018-07-10,Active,Baik,IPC
+Classroom,Room 102,Asset / Capex,POINTER,POINTER,SMDGPO2200001,1,unit,2022-06-14,Active,Baik,GPO
+Classroom,Room 102,Asset / Capex,POINTER,POINTER,SMDGPO2200002,1,unit,2022-06-14,Active,Baik,GPO
+Classroom,Room 102,Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000004,1,unit,2020-12-02,Active,Baik,IPN
+Classroom,Room 102,Asset / Capex,Projector,Projector Epson,SMDIPJ0000002,1,unit,2020-12-02,Active,Baik,IPJ
+Classroom,Room 102,Asset / Capex,Projector Screen,Projector Screen,SMDIPS2000002,1,unit,2020-07-08,Active,Baik,IPS
+Classroom,Room 102,Asset / Capex,Rak,Rak 6 Kolom,SMDGRK1800042,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 102,Asset / Capex,Rak,Rak Sepatu 3 Pintu,SMDGRK1900001,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 102,Asset / Capex,Smartboard Viewsonic,Viewsonic 75' + Floorstanding OXIMUS,IBS25040001,1,unit,2025-03-07,Active,Baik,IBS
+Classroom,Room 102,Asset / Capex,Sofa,Sofa Mini Anak ,SMDGSF2400003,1,unit,2024-12-03,Active,Baik,GSF
+Classroom,Room 102,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800013,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 102,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800014,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 102,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800015,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 102,Asset / Capex,UKS,Box P3k,SMDGUK1800003,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 102,Asset / Capex,UKS,Timbangan Badan,SMDGUK1800009,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 102,Asset / Capex,WASTAFEL,Wastafel Toto,SMDGWP1800002,1,unit,2020-12-14,Active,Baik,GWP
+Classroom,Room 102,Asset / Capex,WhiteBoard,White Board 120x120,SMDGWB1800005,1,unit,2020-12-14,Active,Baik,GWB
+Classroom,Room 103,Asset / Capex,AC,AC Daikin,SMDGAC1900009,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 103,Asset / Capex,AC,AC Daikin,SMDGAC1900010,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 103,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100002,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 103,Asset / Capex,braket Standing,braket Standing,SMDIBS2400003,1,unit,2023-05-03,Active,Baik,IBS
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Guru Beroda,SMDGKR1900169,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800213,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800214,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800215,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800216,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800217,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800218,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800219,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800220,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800221,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800222,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800223,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800224,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800225,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800226,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800227,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800228,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800229,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800230,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800231,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800232,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800233,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800234,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800235,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800236,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800237,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800238,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800239,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,KURSI,Kursi Yaris,SMDGKS1800240,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 103,Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800019,1,unit,2019-06-19,Active,Baik,GLM
+Classroom,Room 103,Asset / Capex,Lemari,Lemari Besi Informa,SMDGLM1800047,1,unit,2020-12-14,Active,Baik,GLM
+Classroom,Room 103,Asset / Capex,Lemari,Lemari Besi Informa,SMDGLM1800048,1,unit,2020-12-14,Active,Baik,GLM
+Classroom,Room 103,Asset / Capex,Lemari,Spencer Cabinet Informa,GLM21070002,3,unit,2021-05-28,Active,Baik,GLM
+Classroom,Room 103,Asset / Capex,Loker,Loker Besi VIP,SMDGLK1800014,1,unit,2020-12-14,Active,Baik,GLK
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200129,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200130,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200131,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200132,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200133,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200134,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200135,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200136,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200138,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200139,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200141,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200142,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200143,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200144,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200145,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ2200147,1,unit,2020-12-14,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja Guru,Meja Guru,SMDGMG1800008,1,unit,2020-12-14,Active,Baik,GMG
+Classroom,Room 103,Asset / Capex,Meja office,Hatch Office Desk Informa,GMJ21060003,1,unit,2021-05-28,Active,Baik,GMJ
+Classroom,Room 103,Asset / Capex,Meja Siswa,Meja Yaris 120x60,SMDGMS1800115,1,unit,2020-12-14,Active,Baik,GMS
+Classroom,Room 103,Asset / Capex,Meja Siswa,Meja Yaris 60x60,SMDGMS1800125,1,unit,2020-12-14,Active,Baik,GMS
+Classroom,Room 103,Asset / Capex,Mesin,Mesin binding,SMDGMN2200003,1,unit,2022-06-14,Active,Baik,GMN
+Classroom,Room 103,Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100007,1,Set,2018-07-10,Active,Baik,IPC
+Classroom,Room 103,Asset / Capex,Printer,Printer Epson,SMDIPN2300001,1,unit,2018-07-10,Active,Baik,IPN
+Classroom,Room 103,Asset / Capex,Projector Screen,Projector Screen,SMDIPS2000003,1,unit,2020-07-08,Active,Baik,IPS
+Classroom,Room 103,Asset / Capex,Rak,Rak 9 Kolom,SMDGRK1800056,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 103,Asset / Capex,Rak,Rak Buku 3 Kolom,SMDGRK1800065,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 103,Asset / Capex,Rak,Rak Mainan 3 Kolom,SMDGRK1800080,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 103,Asset / Capex,Rak,Rak Sepatu 3 Pintu,SMDGRK1900002,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 103,Asset / Capex,SET TIANG BENDERA,TIANG BENDERA,SMDGTB2200001,1,unit,2022-06-14,Active,Baik,GTB
+Classroom,Room 103,Asset / Capex,Smartboard Viewsonic,Smartboard Viewsonic,SMDIBS2400001,1,unit,2024-03-04,Active,Baik,IBS
+Classroom,Room 103,Asset / Capex,Sofa,Sofa Mini Anak ,SMDGSF2400004,1,unit,2024-12-03,Active,Baik,GSF
+Classroom,Room 103,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800016,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 103,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800017,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 103,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800018,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 103,Asset / Capex,UKS,Box P3k,SMDGUK1800004,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 103,Asset / Capex,UKS,Timbangan Badan,SMDGUK1800010,1,unit,2020-12-14,Active,Baik,GUK
+Classroom,Room 103,Asset / Capex,WASTAFEL,Wastafel Toto,SMDGWP1800003,1,unit,2020-12-14,Active,Baik,GWP
+Classroom,Room 108,Asset / Capex,--Set Meja + Kursi,Set Meja + Kursi Siswa (Poly),SMDGAI2100038,1,unit,2019-06-19,Active,Baik,GAI
+Classroom,Room 108,Asset / Capex,AC,AC Daikin,SMDGAC1900013,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 108,Asset / Capex,AC,AC Daikin,SMDGAC1900014,1,unit,2020-12-14,Active,Baik,GAC
+Classroom,Room 108,Asset / Capex,Access Point,Access Point Unifi AP AC Pro,SMDIAP2100004,1,unit,2018-07-10,Active,Baik,IAP
+Classroom,Room 108,Asset / Capex,Alat Musik,Speaker CST 838N + Mic,SMDGSS2000003,1,unit,2020-12-14,Active,Baik,GAM
+Classroom,Room 108,Asset / Capex,KURSI,Kursi Beroda Tiger,SMDGKR1900012,1,unit,2020-12-14,Active,Baik,GKR
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100001,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100002,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100003,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100004,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100005,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100006,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100007,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100008,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100009,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100010,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100011,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100012,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100013,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100014,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100015,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100016,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100017,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100018,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100019,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100020,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100021,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2100022,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2200008,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2200037,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2200038,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2200039,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Kursi Siswa,Kursi Poly,SMDGKS2200040,1,unit,2021-02-02,Active,Baik,GKS
+Classroom,Room 108,Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800022,1,unit,2019-06-19,Active,Baik,GLM
+Classroom,Room 108,Asset / Capex,Loker,Loker Besi 4 Pintu,SMDGLK1800003,1,unit,2020-12-14,Active,Baik,GLK
+Classroom,Room 108,Asset / Capex,Meja,Set Meja Kursi Poly Informa,SMDGMJ2200062,1,Set,2022-07-05,Active,Baik,GMJ
+Classroom,Room 108,Asset / Capex,Meja,Set Meja Kursi Poly Informa,SMDGMJ2300031,1,Set,2022-07-05,Active,Baik,GMJ
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100004,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100005,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100006,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100007,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100008,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100009,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100010,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100011,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100012,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100013,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100014,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100015,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100016,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100017,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100018,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100019,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100020,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100021,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100022,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100031,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2200002,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2200037,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2200038,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2200039,1,unit,2021-02-02,Active,Baik,GMS
+Classroom,Room 108,Asset / Capex,Proyektor,Proyektor Benq MX560,SMDIPJ2400006,1,unit,2024-04-04,Active,Baik,IPJ
+Classroom,Room 108,Asset / Capex,Rak,Rak 15 Kolom,SMDGRK1800007,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 108,Asset / Capex,Rak,Rak 28 Kolom,SMDGRK1800020,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 108,Asset / Capex,Rak,Rak 6 Kolom,SMDGRK1800043,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 108,Asset / Capex,Rak,Rak Sepatu 3 Pintu,SMDGRK1800002,1,unit,2020-12-14,Active,Baik,GRK
+Classroom,Room 108,Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200001,1,unit,2019-03-14,Active,Baik,IPS
+Classroom,Room 108,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800019,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 108,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800020,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 108,Asset / Capex,Softboard,Soft Board 240x120,SMDGSB1800021,1,unit,2020-12-14,Active,Baik,GSB
+Classroom,Room 108,Asset / Capex,WASTAFEL,Wastafel Toto,SMDGWP1800004,1,unit,2020-12-14,Active,Baik,GWP
+Classroom,Room 108,Asset / Capex,WhiteBoard,White Board 180X120,SMDGWB1800012,1,unit,2020-12-14,Active,Baik,GWB
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900043,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900044,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900045,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,AC,AC Daikin,SMDGAC1900046,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000009,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Alesis Portable Piano Recital,SMDGAM2500016,1,unit,2025-08-08,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Ampli Gitar Cort CM-15R-BK,20030081,1,unit,2020-03-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Biola Lulea 3/4,SMDGAM2400018,1,unit,2024-06-12,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Drum Elektrik Yamaha DTX 452,GAM21060002,1,unit,2021-05-20,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Electric Bass Cort GB24JJ-2T,SMDGAM2300007,1,unit,2023-04-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Electric Guitar Cort CR-100-CRS,SMDGAM2300006,1,unit,2023-04-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300001,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300002,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300003,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300004,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300011,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Akustik Yamaha C315,SMDGAM2300012,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Cort AC-100E-OP,20030082,1,unit,2020-03-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Gitar Valencia,SMDGAM1900001,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Casio CTX 800,SMDGAM2300009,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Casio CTX 800,SMDGAM2300010,1,unit,2023-04-06,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Keyboard Yamaha PSR - E363,SMDGAM1900002,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Microphone Wireless Dusen Berg JTSS 633,SMDGAM2300014,1,unit,2020-06-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Mixer,SMDGAM2100001,1,unit,2021-07-19,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,MPK Midi Controler Original ,SMDGAM2400019,1,unit,2024-09-10,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,PERKUSI BARCHIME GVT-CH 363,SMDGAM2400014,2,unit,2024-05-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Roland Arranger Keyboard EX10 (stand Exclude),SMDGAM2500015,1,unit,2025-08-11,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Set Angklung Orkestra,SMDGAM1900004,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,Set Angklung Orkestra,SMDGAM1900005,1,unit,2020-12-14,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Alat Musik,"Speaker Active Baretone 15""",SMDGAM2200001,1,unit,2020-06-02,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2400025,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,Audio Visual Room(404),Asset / Capex,GITAR,Gitar Bass Gilmore GFJ-60,GAM21040001,1,unit,2021-04-05,Active,Baik,GAM
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Meja,Meja Informa,SMDGMJ2200127,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Projector,Epson,SMDIPJ0000018,1,unit,2018-07-10,Active,Baik,IPJ
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Sofa,Sofa Singel Seat,SMDGSF1800055,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Sofa,Sofa Triple Seat,SMDGSF1800059,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200001,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200002,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Audio Visual Room(404),Asset / Capex,Speaker Aktif,Speaker Aktif,SMDGSS2200003,1,unit,2020-12-02,Active,Baik,GSS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC1900034,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC2300009,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,AC,AC Daikin,SMDGAC2300010,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2400004,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Furniture,Panggung Vynil 300x150 cm Lab Computer,SMDGFR2400001,1,unit,2024-01-30,Active,Baik,GFR
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Guru,Kursi Guru Lab Computer,SMDGKG2400001,1,unit,2024-01-30,Active,Baik,GKG
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400001,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400002,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400003,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400004,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400005,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400006,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400007,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400008,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400009,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400010,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400011,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400012,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400013,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400014,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400015,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400016,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400017,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400018,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400019,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400020,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400021,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400022,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400023,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400024,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400025,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400026,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400027,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400028,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400029,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400030,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400031,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Computer,SMDGKS2400032,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Lemari,Credenza 170x100x40 Lab Computer,SMDGLM2400001,1,unit,2024-01-30,Active,Baik,GLM
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Lemari,Credenza 380x100x40 Lab Computer,SMDGLM2400002,1,unit,2024-01-30,Active,Baik,GLM
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Guru,Meja Guru  Lab Computer,SMDGMG2400001,1,unit,2024-01-30,Active,Baik,GMG
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400001,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400002,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400003,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400004,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400005,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400006,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400007,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400008,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400009,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400010,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400011,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400012,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400013,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400014,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400015,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Meja Komputer,Meja Komputer Lab Computer,SMDGMJ2400016,1,unit,2024-01-30,Active,Baik,GMJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300023,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300024,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300025,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300026,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300027,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300028,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300029,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300030,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300031,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300032,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300033,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300034,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300035,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300036,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300037,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300038,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300039,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300040,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300041,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300042,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300043,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300044,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300045,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300046,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300047,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300048,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300049,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300050,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300051,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300052,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Projector,Projector Epson,SMDIPJ2300005,1,unit,2020-12-02,Active,Baik,IPJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Proyektor,Proyektor EPSON EB-X51,IPJ25080001,1,unit,2025-07-16,Active,Baik,IPJ
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Softboard,Softboard Lab Computer ,SMDGSB2400001,1,unit,2024-01-30,Active,Baik,GSB
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Stavol,Stavol Matsunaga  5000 watt ,SMDITV2400001,1,unit,2024-11-14,Active,Baik,ITV
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Unifi Switch ,Unifi Access Point HD ,SMDISW2400004,1,unit,2024-07-16,Active,Baik,ISW
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,UPS,UPS APC 10.000VA,SMDIUP2500001,1,unit,2025-05-05,Active,Baik,IUP
+Multi Purpose,Computer Lab JHS SHS - 306,Asset / Capex,Wireless Dongle,Epson Elpap 11 Wireless Dongle,SMDIWD2300001,1,unit,2023-11-09,Active,Baik,IWD
+Multi Purpose,Dance Room,Asset / Capex,AC,AC LG,SMDGAC1800004,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Dance Room,Asset / Capex,AC,AC LG,SMDGAC1800005,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Dance Room,Asset / Capex,braket Standing,braket Standing,SMDIBS2400004,1,unit,2023-05-03,Active,Baik,IBS
+Multi Purpose,Dance Room,Asset / Capex,Smartboard Viewsonic,Smartboard Viewsonic,SMDIBS2400002,1,unit,2024-03-04,Active,Baik,IBS
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,AC,AC Panasonic,SMDGAC1800010,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,AC,AC Panasonic,SMDGAC1800011,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000008,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,BenQ Interactive Digital,BenQ Interactive Digital,SMDISB2200001,1,unit,2022-07-28,Active,Baik,ISB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900049,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900050,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900051,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900052,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900053,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900054,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900055,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900056,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900057,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900058,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900059,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900060,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900061,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900062,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900063,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900064,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900065,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900066,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900067,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900068,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900069,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900070,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900071,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900072,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900073,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900074,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900075,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900076,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900077,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900078,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,KURSI,Kursi Custom,SMDGKR1900079,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Kursi Guru,Kursi Guru Chitose,SMDGKG1800012,1,unit,2020-12-14,Active,Baik,GKG
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja 120X80,SMDGMJ1900002,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900007,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900008,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900009,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900010,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900011,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900012,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900013,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900014,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900015,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900016,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900017,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bentuk Trapesium,SMDGMJ1900018,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja Bulat Custom,SMDGMJ1900020,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja U,SMDGMJ1900081,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja U,SMDGMJ1900082,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja,Meja U,SMDGMJ1900083,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Meja Guru,Meja Guru,SMDGMG1800012,1,unit,2020-12-14,Active,Baik,GMG
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Mesin,Mesin Press Kaos,SMDGMN2200001,1,unit,2022-04-18,Active,Baik,GMN
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Mesin,Mesin Press Pin,SMDGMN2300002,1,unit,2023-06-19,Active,Baik,GMN
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2300022,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Printer,Printer EPSON L3210,SMDIPN2500002,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Rak,Rak 8 Kolom,SMDGRK1800051,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Rak,Rak 8 Kolom,SMDGRK1800052,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board 90X70,SMDGSB1800045,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board 90X70,SMDGSB1800046,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board 90X70,SMDGSB1800047,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board 90X70,SMDGSB1800048,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board 90X70,SMDGSB1800049,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Entrepreneur Hall(207),Asset / Capex,Softboard,Soft Board Trapesium,SMDGSB1800050,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,ICT Laboratory(104),Asset / Capex,AC,AC LG,SMDGAC1800002,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,AC,AC LG,SMDGAC1800003,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2000011,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300004,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300005,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300006,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300007,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300008,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300009,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300010,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300011,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300012,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300013,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300014,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300015,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300016,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300017,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300018,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300019,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300020,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,HP AIO I3,HP AIO I3,SMDIPC2300021,1,unit,2023-03-03,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800001,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800002,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800003,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800004,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800005,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800006,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800007,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800008,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800009,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800010,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800011,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800012,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800013,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800014,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800015,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800016,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800017,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800018,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800019,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800020,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800021,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800022,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800023,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800024,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800025,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800026,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800027,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800028,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800029,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Chitose,SMDGKS1800030,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Guru,SMDGKR1900166,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,KURSI,Kursi Tamu Chitose,SMDGKR1900258,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Lemari Metal,Lemari Metal Filling,SMDGLM2200005,1,unit,2019-06-19,Active,Baik,GLM
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Guru,Meja Guru,SMDGMG1800009,1,unit,2020-12-14,Active,Baik,GMG
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900001,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900002,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900003,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900004,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900005,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900006,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900007,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900008,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900009,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900010,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900011,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900012,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900013,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900014,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900015,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900016,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900017,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900018,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900019,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900020,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900021,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900022,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900023,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900024,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900025,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900026,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900027,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900028,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900029,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900030,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900031,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900032,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900033,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900034,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900035,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Meja Siswa,Meja Computer,SMDGMS1900036,1,unit,2020-12-14,Active,Baik,GMS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400004,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400005,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400006,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400007,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400008,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400009,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400010,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400011,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400012,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400013,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400014,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400015,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400016,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400017,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400018,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Printer,Printer Epson,SMDIPN2300002,1,unit,2018-07-10,Active,Baik,IPN
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Projector,Projector Epson,SMDIPJ0000004,1,unit,2020-12-02,Active,Baik,IPJ
+Multi Purpose,ICT Laboratory(104),Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200006,1,unit,2019-03-14,Active,Baik,IPS
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Stavol,Stavol Matsunaga  5000 watt ,SMDITV2400002,1,unit,2024-11-14,Active,Baik,ITV
+Multi Purpose,ICT Laboratory(104),Asset / Capex,Unifi Switch ,Unifi Access Point HD ,SMDISW2400005,1,unit,2024-07-16,Active,Baik,ISW
+Multi Purpose,ICT Laboratory(104),Asset / Capex,UPS,UPS APC 10.000VA,SMDIUP2500002,1,unit,2025-05-05,Active,Baik,IUP
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900017,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900018,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900019,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,AC,AC Daikin,SMDGAC1900020,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Library(202),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2300002,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SD,Mandarin - Mei Hua 1 Text Book,LIB20070092,1,buku,2020-05-15,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Biognosis : Genetika dasar Untuk Persiapan Kompetisi Sains Nasional SMA Biologi,SMDLIB2400044,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,"Internasional Biologi Olympiad, Latihan Soal dan Solusi",SMDLIB2400045,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Materi Olimpiade Sains Kebumian SMA Seri Meteorologi,SMDLIB2400025,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Memahami Ilmu Kimia,SMDLIB2400051,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Astronomi SMA - Langakah Sukses Menghadapi Olimpiade Astronomi,SMDLIB2400078,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Fisika - Bank Soal Superlengkap,SMDLIB2400022,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Fisika - Mekanika,SMDLIB2400048,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Fisika - Soal dan Pembahasan Olimpiade Fisika - OSK,SMDLIB2400067,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Fisika - Soal dan Pembahasan Olimpiade Fisika - OSN,SMDLIB2400040,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Fisika - Soal dan Pembahasan Olimpiade Fisika - OSP,SMDLIB2400039,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,OSN Kimia Senyawa Hidrokarbon,SMDLIB2400042,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Panduan Eksperimen OSN Fisika SMA,SMDLIB2400035,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Panduan Materi Sukses Olimpiade Sains Ekonomi - Akuntasi SMA/MA Jilid 2,SMDLIB2400076,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Panduan Materi Sukses Olimpiade Sains Ekonomi - Makro dan Mikro SMA/MA Jilid 1,SMDLIB2400057,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,"Persipan Olimpiade Sains, Teori Dasar Kimia Organik 1",SMDLIB2400059,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,"Persipan Olimpiade Sains, Teori Dasar Kimia Organik 2",SMDLIB2400068,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,"Persipan Olimpiade Sains, Teori Dasar Kimia Organik 3",SMDLIB2400036,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Praktikum Kimia,SMDLIB2400027,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Ringkasan Materi & Latihan Soal Olimpiade Biologi Internasional,SMDLIB2400052,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Siap Menghadapi Komputer v2,SMDLIB2400053,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Soal dan Pembahasan Olimpiade Matematika OSK 2012-2017,SMDLIB2400030,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Soal dan Pembahasan Olimpiade Matematika OSN 2012-2017,SMDLIB2400058,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Soal dan Pembahasan Olimpiade Matematika OSP 2012-2017,SMDLIB2400072,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Astronomi Jilid 1,SMDLIB2400061,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Astronomi Jilid 2,SMDLIB2400038,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Astronomi Jilid 3,SMDLIB2400049,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Biologi Jilid 1,SMDLIB2400070,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Biologi Jilid 2,SMDLIB2400024,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Biologi Jilid 3,SMDLIB2400028,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Ekonomi Jilid 1,SMDLIB2400060,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Ekonomi Jilid 2,SMDLIB2400033,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Ekonomi Jilid 3,SMDLIB2400043,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Fisika Jilid 1,SMDLIB2400069,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Fisika Jilid 2,SMDLIB2400075,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Fisika Jilid 3,SMDLIB2400023,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Geografi Jilid 1,SMDLIB2400064,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Geografi Jilid 2,SMDLIB2400032,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Geografi Jilid 3,SMDLIB2400050,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kebumian Jilid 1,SMDLIB2400054,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kebumian Jilid 2,SMDLIB2400047,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kebumian Jilid 3,SMDLIB2400031,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kimia Jilid 1,SMDLIB2400071,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kimia Jilid 2,SMDLIB2400034,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Kimia Jilid 3,SMDLIB2400073,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Komputer Jilid 1,SMDLIB2400041,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Komputer Jilid 2,SMDLIB2400055,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Komputer Jilid 3,SMDLIB2400056,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 1,SMDLIB2400077,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 2,SMDLIB2400066,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Strategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 3,SMDLIB2400062,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Sumplemen Sumber Belajar Sains Kebumian Seri Astronomi,SMDLIB2400074,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Sumplemen Sumber Belajar Sains Kebumian Seri Atmosfer,SMDLIB2400046,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Sumplemen Sumber Belajar Sains Kebumian Seri Hidrosfer,SMDLIB2400065,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Sumplemen Sumber Belajar Sains Kebumian Seri Litosfer,SMDLIB2400037,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Suplemen Sumber Belajar Olimpiade Geografi 1,SMDLIB2400029,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Suplemen Sumber Belajar Olimpiade Geografi 2,SMDLIB2400026,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,Buku Perpustakaan SMA,Teori Lengkap Matematika & Bank Soal Superlengkap,SMDLIB2400063,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Langkah Sukses Menghadapi Olimpiade Sains Fisika Edisi 2 ( materi ),SMDLIB2400001,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Materi Matematika SMP ( materi ),SMDLIB2400005,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Siap Jadi Juara OSN IPS Seri Ekonomi ( materi ),SMDLIB2400013,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Siap Jadi Juara OSN IPS Seri Sejarah ( materi ),SMDLIB2400012,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Siap Jadi Juara OSN IPS Seri Sosiologi ( materi ),SMDLIB2400003,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Siap Juara OSN IPS - Geografi ( materi ),SMDLIB2400006,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains IPA - Biologi Jilid 1,SMDLIB2400017,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains IPA - Biologi Jilid 2,SMDLIB2400020,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains IPA - Biologi Jilid 3,SMDLIB2400019,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 1,SMDLIB2400007,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 2,SMDLIB2400008,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Stategi Jitu Menjuarai Olimpiade Sains Matematika Jilid 3,SMDLIB2400016,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPA - Fisika Jilid 1,SMDLIB2400014,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPA - Fisika Jilid 2,SMDLIB2400011,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPA - Fisika Jilid 3,SMDLIB2400021,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPS Jilid 1,SMDLIB2400015,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPS Jilid 2,SMDLIB2400018,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Strategi Jitu Menjuarai Olimpiade Sains IPS Jilid 3,SMDLIB2400002,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Suplemen Sumber Belajar Olimpiade IPA Biologi Jilid 1 ( materi ),SMDLIB2400010,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Suplemen Sumber Belajar Olimpiade IPA Biologi Jilid 2 ( materi ),SMDLIB2400004,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,BUKU PERPUSTAKAAN SMP,Suplemen Sumber Belajar Olimpiade IPA Biologi Jilid 3 ( materi ),SMDLIB2400009,1,buku,2024-09-13,Active,Baik,LIB
+Multi Purpose,Library(202),Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2000013,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,Library(202),Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2400010,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500001,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500002,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500003,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500004,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500005,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500006,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500007,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500008,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung Tab A9 plus ,SMDIEC2500009,1,unit,2025-07-29,Active,Baik,IEC
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900001,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900002,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900003,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900004,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900005,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900006,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900007,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900008,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900009,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Beludru Bundar,SMDGKR1900010,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900021,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900022,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900023,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900024,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900025,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900026,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900027,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Chitose,SMDGKR1900028,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Custom Putih Besi,SMDGKR1900143,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Custom Putih Besi,SMDGKR1900144,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Custom Putih Besi,SMDGKR1900145,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Custom Putih Besi,SMDGKR1900146,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900147,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900148,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900149,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900150,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900151,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900152,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900153,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900154,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900155,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900156,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900157,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900158,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900159,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900160,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900161,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900162,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900163,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900164,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Dacey Chard,SMDGKR1900165,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900176,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900177,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900178,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900179,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900180,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900181,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900182,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900183,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900184,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900185,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900186,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Besi,SMDGKR1900187,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900188,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900189,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900190,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900191,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900192,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900193,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900194,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900195,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900196,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900197,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900198,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900199,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900200,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900201,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900202,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Informa Plastik,SMDGKR1900203,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Kayu Bulat Kecil,SMDGKR1900207,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,KURSI,Kursi Kayu Bulat Kecil,SMDGKR1900212,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Library(202),Asset / Capex,Kursi Guru,Kursi Guru Chitose,SMDGKG1800010,1,unit,2020-12-14,Active,Baik,GKG
+Multi Purpose,Library(202),Asset / Capex,Kursi Guru,Kursi Guru Chitose,SMDGKG1800011,1,unit,2020-12-14,Active,Baik,GKG
+Multi Purpose,Library(202),Asset / Capex,Lemari,Lemari Arisp Besi Pintu Brother B203,GLM21060001,1,unit,2021-05-07,Active,Baik,GLM
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Biru Informa,SMDGMJ1900019,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Bundar Informa,SMDGMJ1900021,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Bundar Informa,SMDGMJ1900022,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custem U,SMDGMJ1900032,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custem U,SMDGMJ1900033,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 120X80,SMDGMJ1900038,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 120X80,SMDGMJ1900039,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 120X80,SMDGMJ1900040,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 120X80,SMDGMJ1900041,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 180X80,SMDGMJ1900042,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 180X80,SMDGMJ1900043,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 80X80,SMDGMJ1900058,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 80X80,SMDGMJ1900059,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom 80X80,SMDGMJ1900060,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Segienam,SMDGMJ1900061,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Segienam,SMDGMJ1900062,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Segitiga Curve,SMDGMJ1900063,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Tinggi,SMDGMJ1900066,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Tinggi,SMDGMJ1900067,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Custom Tinggi,SMDGMJ1900068,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja,Meja Guru Custom,SMDGMJ1900069,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Library(202),Asset / Capex,Meja Siswa,Meja Poly,SMDGMS2100002,1,unit,2021-02-02,Active,Baik,GMS
+Multi Purpose,Library(202),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2300001,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,Library(202),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2300002,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,Library(202),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2300003,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,Library(202),Asset / Capex,Printer,Printer HP Laserjet,SMDIPN2000003,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 12 Kolom,SMDGRK1800058,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 12 Kolom,SMDGRK2200001,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 12 Kolom,SMDGRK2200002,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 13 Kolom,SMDGRK1800059,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 14 Kolom,SMDGRK1800060,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 18 Kolom,SMDGRK1800061,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 3 Kolom,SMDGRK1800063,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku 8 Kolom,SMDGRK1800068,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku Dallas Informa,SMDGRK2400001,1,unit,2024-01-08,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku Dallas Informa,SMDGRK2400002,1,unit,2024-01-08,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku Stanley Informa,SMDGRK2300006,1,unit,2023-08-23,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Buku Stanley Informa,SMDGRK2300007,1,unit,2023-08-23,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Dinding 10 Kolom,SMDGRK1800072,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Dinding 3 Kolom,SMDGRK1800074,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Dinding 3 Kolom,SMDGRK1800075,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Dinding 3 Kolom,SMDGRK1800076,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Asset / Capex,Rak,Rak Sepatu 3 Pintu,SMDGRK1900005,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,Library(202),Barang Operational Stock,Persediaan Buku siswa SMP,"Pathways, 2nd Edition, Reading / Writing, Student Book 1 (KLS 7)",SMP24050004,4,buku,2024-03-28,Active,Baik,SMP
+Multi Purpose,Positive Studio,Asset / Capex,AC,AC LG,SMDGAC1800006,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Positive Studio,Asset / Capex,Alat Musik,Behringer U-Phoria Studio,GAM21060001,1,unit,2021-05-20,Active,Baik,GAM
+Multi Purpose,Positive Studio,Asset / Capex,Alat Musik,Headphone,SMDGAM2100002,1,unit,2021-07-19,Active,Rusak,GAM
+Multi Purpose,Positive Studio,Asset / Capex,Alat Musik,Headphone,SMDGAM2100003,1,unit,2021-07-19,Active,Rusak,GAM
+Multi Purpose,Positive Studio,Asset / Capex,Alat Musik,Headphone,SMDGAM2100004,1,unit,2021-07-19,Active,Baik,GAM
+Multi Purpose,Positive Studio,Asset / Capex,KURSI,Gwinston Sofabed,SMDGKR2100033,1,unit,2021-07-19,Active,Baik,GKR
+Multi Purpose,Positive Studio,Asset / Capex,KURSI,Kursi Kantor Fummo,SMDGKR2100031,1,unit,2021-07-19,Active,Baik,GKR
+Multi Purpose,Positive Studio,Asset / Capex,KURSI,Kursi Kantor Fummo,SMDGKR2100032,1,unit,2021-07-19,Active,Baik,GKR
+Multi Purpose,Positive Studio,Asset / Capex,LED TV,TV Samsung,SMDITV2100001,1,unit,2020-07-08,Active,Baik,ITV
+Multi Purpose,Positive Studio,Asset / Capex,Meja,Meja Kairo,SMDGMJ2100035,1,unit,2021-07-19,Active,Baik,GMJ
+Multi Purpose,Positive Studio,Asset / Capex,Meja office,Hatch Office Desk Informa,GMJ21060003,1,unit,2021-05-28,Active,Baik,GMJ
+Multi Purpose,Positive Studio,Asset / Capex,Monitor,Monitor LG,SMDIMN0000009,1,unit,2020-12-02,Active,Baik,IMN
+Multi Purpose,Positive Studio,Asset / Capex,PC,PC Rakitan i5,SMDIPC0000041,1,unit,2020-12-02,Active,Baik,IPC
+Multi Purpose,Positive Studio,Asset / Capex,Sound System,Condenser Mic,SMDGSS2100001,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,Positive Studio,Asset / Capex,Sound System,Condenser Mic,SMDGSS2100002,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,Positive Studio,Asset / Capex,Sound System,Sound Card Behringer,SMDGSS2300002,1,unit,2023-07-28,Active,Baik,GSS
+Multi Purpose,Principals Office(203),Asset / Capex,AC,AC Panasonic,SMDGAC1800007,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Principals Office(203),Asset / Capex,Access Point,Access Point Unifi,SMDIAP2400002,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Principals Office(203),Asset / Capex,CCTV,UFP-View Port,SMDICC2400002,1,unit,2024-04-01,Active,Baik,ICC
+Multi Purpose,Principals Office(203),Asset / Capex,DISPENSER AIR,Dispenser Miyako,SMDGDS1900001,1,unit,2020-12-14,Active,Baik,GDS
+Multi Purpose,Principals Office(203),Asset / Capex,IP PHONE,IP Phone,SMDIPH2000006,1,unit,2020-12-02,Active,Baik,IPH
+Multi Purpose,Principals Office(203),Asset / Capex,KEYBOX,Key Box Krisbow,SMDGKB1900002,1,unit,2020-12-14,Active,Baik,GKB
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Kent KM 101 ,SMDGKR2400080,1,unit,2024-10-07,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Kent KM 101 ,SMDGKR2400081,1,unit,2024-10-07,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Polaris,SMDGKR1900250,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Polaris,SMDGKR1900251,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Polaris,SMDGKR1900252,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Polaris,SMDGKR1900253,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,KURSI,Kursi Tamu Chitose,SMDGKR1900257,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,Kursi Beroda,Kursi Active Kent 101,SMDGKR2300005,1,unit,2023-06-14,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,Kursi Office,Kursi Brother BR 103,SMDGKR2200031,1,unit,2020-07-07,Active,Baik,GKR
+Multi Purpose,Principals Office(203),Asset / Capex,Laptop Pribadi,MSI Modern 14/ Core i7,SMDILR2400001,1,unit,2024-11-29,Active,Baik,ILR
+Multi Purpose,Principals Office(203),Asset / Capex,LED TV,TV LG,SMDITV0000002,1,unit,2020-07-08,Active,Baik,ITV
+Multi Purpose,Principals Office(203),Asset / Capex,Lemari,Lemari Credensa,SMDGLM1900003,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Principals Office(203),Asset / Capex,Lemari,Lemari Kaca Besi,SMDGLM1800051,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Principals Office(203),Asset / Capex,Lemari,Lemari Kayu 1 Pintu,SMDGLM1800053,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Principals Office(203),Asset / Capex,Lemari,Lemari Kayu 2 Pintu,SMDGLM1800054,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Principals Office(203),Asset / Capex,Lemari Metal,Lemari Metal Filling,SMDGLM2300002,1,unit,2019-06-19,Active,Baik,GLM
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Informa,SMDGMJ1900070,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Siantano,SMDGMJ1900077,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Siantano,SMDGMJ1900078,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Siantano,SMDGMJ1900079,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Siantano,SMDGMJ1900080,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja,Meja Siantano,SMDGMJ2300055,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja office,Meja Siantano DT 122,GAI20080036,1,unit,2020-07-07,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Meja office,Meja Siantano DT 122,SMDGMJ2200057,1,unit,2020-07-07,Active,Baik,GMJ
+Multi Purpose,Principals Office(203),Asset / Capex,Mesin,Paper Shradder Krisbow S340,SMDGMN2500001,1,unit,2025-08-19,Active,Baik,GMN
+Multi Purpose,Principals Office(203),Asset / Capex,Printer,Printer EPSON L4260,SMDIPN2500001,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,Principals Office(203),Asset / Capex,Proyektor,Proyektor EPSON EB-X51,IPJ25080002,1,unit,2025-07-16,Active,Baik,IPJ
+Multi Purpose,Principals Office(203),Asset / Capex,Sofa,Meja Sofa,SMDGSF1800051,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Principals Office(203),Asset / Capex,Sofa,Meja Sofa Kaca,SMDGSF1800052,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Principals Office(203),Asset / Capex,Sofa,Sofa Single Seat,SMDGSF1800057,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Principals Office(203),Asset / Capex,Sofa,Sofa Single Seat,SMDGSF1800058,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,Principals Office(203),Asset / Capex,SSD Exsternal 1 TB (Sandisk),SSD External 1 TB (Sandisk),SMDSSD2500001,1,Pieces,2025-05-20,Active,Baik,SSD
+Multi Purpose,Principals Office(203),Asset / Capex,SSD Exsternal 1 TB (Sandisk),SSD External 1 TB (Sandisk),SMDSSD2500002,1,Pieces,2025-05-20,Active,Baik,SSD
+Multi Purpose,Principals Office(203),Asset / Capex,SSD Exsternal 1 TB (Sandisk),SSD External 1 TB (Sandisk),SMDSSD2500003,1,Pieces,2025-05-20,Active,Baik,SSD
+Multi Purpose,Principals Office(203),Asset / Capex,Wireless Dongle,Epson Elpap 11 Wireless Dongle,SMDIWD2500001,1,unit,2023-11-09,Active,Baik,IWD
+Multi Purpose,School Information Center(105),Asset / Capex,AC,AC Daikin,SMDGAC1900011,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,School Information Center(105),Asset / Capex,AC,AC Daikin,SMDGAC1900012,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,School Information Center(105),Asset / Capex,AIO Acer Core i5,AIO Acer Core i5,SMDAIO2200001,1,unit,2022-10-11,Active,Baik,AIO
+Multi Purpose,School Information Center(105),Asset / Capex,Alat Musik,Mic Saramonic Blink 500 B2,SMDGAM2300015,1,unit,2023-08-23,Active,Baik,GAM
+Multi Purpose,School Information Center(105),Asset / Capex,Alat Musik,Microphone Dussen Berg JTSS X-ONE,SMDGAM2500001,1,unit,2025-05-19,Active,Baik,GAM
+Multi Purpose,School Information Center(105),Asset / Capex,Alat Musik,Microphone Dussen Berg JTSS X-ONE,SMDGAM2500002,1,unit,2025-05-19,Active,Baik,GAM
+Multi Purpose,School Information Center(105),Asset / Capex,Alat Musik,Zoom Guitar Effect,SMDGAM2400001,1,unit,2023-12-06,Active,Baik,GAM
+Multi Purpose,School Information Center(105),Asset / Capex,Barcode Printer,Printer Barcode,SMDIBP2000001,1,unit,2020-12-02,Active,Baik,IBP
+Multi Purpose,School Information Center(105),Asset / Capex,BRANGKAS,Brangkas Krisbow,SMDGBK1800001,1,unit,2020-12-14,Active,Baik,GBK
+Multi Purpose,School Information Center(105),Asset / Capex,Camera,Camera Canon EOS 3000D,SMDGCM1900003,1,unit,2020-12-14,Active,Baik,GCM
+Multi Purpose,School Information Center(105),Asset / Capex,Camera,Camera Sony DSC-W6301,SMDGCM1800001,1,unit,2020-12-14,Active,Baik,GCM
+Multi Purpose,School Information Center(105),Asset / Capex,Camera,Handycam Sony,SMDGCM1800002,1,unit,2020-12-14,Active,Baik,GCM
+Multi Purpose,School Information Center(105),Asset / Capex,CCTV / IP Camera,CCTV,SMDICC2300003,1,unit,2020-12-02,Active,Baik,ICC
+Multi Purpose,School Information Center(105),Asset / Capex,DISPENSER AIR,Dispenser Miyako,SMDGDS1900003,1,unit,2020-12-14,Active,Baik,GDS
+Multi Purpose,School Information Center(105),Asset / Capex,Fingerspot Hybrid+ Series,Fingerprint,SMDIFS2000001,1,unit,2020-12-02,Active,Baik,IFS
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Galaxy tab A9+ 5G/8-125gb,SMDIEC2400002,1,unit,2024-08-29,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone,SMDIEC2200001,1,unit,2022-06-16,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Lenovo,SMDIEC2000001,1,unit,2020-12-02,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Redmi Note 12 RAM 8 ROM 256,SMDIEC2300001,1,unit,2023-10-03,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Handphone Xiaomi,SMDIEC2000002,1,unit,2020-12-02,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Iphone 16 Pro,IEC25080002,1,unit,2025-07-23,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung A16,IEC25080001,1,unit,2025-07-09,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Gadget (HP/Tab/IPad) dan Aksesorisnya,Samsung A35 G5/8-256gb ,SMDIEC2400001,1,unit,2024-08-29,Active,Baik,IEC
+Multi Purpose,School Information Center(105),Asset / Capex,Harddisk,Hardisk Eksternal,SMDIHD2000001,1,unit,2020-12-02,Active,Baik,IHD
+Multi Purpose,School Information Center(105),Asset / Capex,IP PHONE,IP Phone,SMDIPH2000003,1,unit,2020-12-02,Active,Baik,IPH
+Multi Purpose,School Information Center(105),Asset / Capex,IP PHONE,IP Phone,SMDIPH2000004,1,unit,2020-12-02,Active,Baik,IPH
+Multi Purpose,School Information Center(105),Asset / Capex,IP PHONE,IP Phone,SMDIPH2000005,1,unit,2020-12-02,Active,Baik,IPH
+Multi Purpose,School Information Center(105),Asset / Capex,KEYBOX,Key Box Krisbow,SMDGKB1900001,1,unit,2020-12-14,Active,Baik,GKB
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Beroda,SMDGKR2300001,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Beroda,SMDGKR2300002,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Beroda,SMDGKR2300003,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Beroda,SMDGKR2300004,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi RO Frontline,SMDGKR1900254,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi RO Frontline,SMDGKR1900255,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi RO Frontline,SMDGKR1900256,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Tamu Chitose,SMDGKR1900259,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Tamu Chitose,SMDGKR1900260,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,KURSI,Kursi Tunggu 4 Seat,SMDGKR1900261,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,Kursi Beroda,Kursi Beroda Kido,SMDGKR2300006,1,unit,2023-10-16,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,Kursi Beroda,Kursi Beroda Kido,SMDGKR2300007,1,unit,2023-10-16,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,Kursi Office,Kursi Kent KM 102 ,GKR21060003,1,unit,2021-04-27,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,Kursi Office,Kursi Morgan-Informa,GKR21060001,4,unit,2021-04-22,Active,Baik,GKR
+Multi Purpose,School Information Center(105),Asset / Capex,LAPTOP KANTOR,LAPTOP ASUS VIVOBOOK 14 A1404ZA,SMDILP2400001,1,unit,2024-07-24,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,LAPTOP KANTOR,LAPTOP ASUS VIVOBOOK 14 A1404ZA,SMDILP2400002,1,unit,2024-07-24,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,LAPTOP KANTOR,LAPTOP ASUS VIVOBOOK 14 A1404ZA,SMDILP2400003,1,unit,2024-07-24,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,LAPTOP KANTOR,MSI Cyborg 15 Core i7-1360OH 6GB/32GB,SMDILP2400004,1,unit,2024-10-24,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,Laptop Pinjaman,Laptop i5,SMDILP2000001,1,unit,2020-12-02,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,Laptop Pinjaman,Laptop i5,SMDILP2000002,1,unit,2020-12-02,Active,Baik,ILP
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Filling Cabinet 3 Laci,SMDGLM1800016,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800020,1,unit,2019-06-19,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Filling Cabinet 4 Laci,SMDGLM1800021,1,unit,2019-06-19,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Filling Cabinet 4 laci (BROTHER B104) ,GLM21060002,2,unit,2021-04-27,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Arisp Besi Pintu Brother B203,GLM21060001,1,unit,2021-05-07,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi,SMDGLM2400015,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800034,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800035,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800036,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800037,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800038,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800039,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari,Lemari Besi 2 Pintu,SMDGLM1800040,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari Metal,Lemari Arsip Besi B6-SW,SMDGLM2500001,1,unit,2025-07-10,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,Lemari Metal,Lemari Metal Filling,SMDGLM2200006,1,unit,2019-06-19,Active,Baik,GLM
+Multi Purpose,School Information Center(105),Asset / Capex,LENSA,Lensa Camera Yongnuo,SMDGLN2000001,1,unit,2020-12-14,Active,Baik,GLN
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Admin Custom,SMDGMJ1800002,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Admin Custom,SMDGMJ1800003,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Kaca,SMDGMJ1800005,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Kerja,SMDGMJ1800006,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Kerja,SMDGMJ1800007,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Kerja,SMDGMJ1800008,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Kerja,SMDGMJ1800009,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Receptionist Custom,SMDGMJ1800014,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Shofa,SMDGMJ1800015,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja,Meja Sofa Kayu,SMDGMJ1800016,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja office,Meja EXPO MTM 3001,SMDGMJ2300056,1,unit,2020-07-07,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja office,Meja EXPO MTM 3001,SMDGMJ2500001,1,unit,2020-07-07,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Meja office,Meja EXPO MTM 3001,SMDGMJ2500002,1,unit,2020-07-07,Active,Baik,GMJ
+Multi Purpose,School Information Center(105),Asset / Capex,Mesin,Mesin Laminating OR - 330,SMDGMN1800085,1,unit,2020-12-14,Active,Baik,GMN
+Multi Purpose,School Information Center(105),Asset / Capex,Mesin,Mosquito Killer,SMDGME2000001,1,unit,2020-12-14,Active,Baik,GMN
+Multi Purpose,School Information Center(105),Asset / Capex,Mesin,Mosquito Killer,SMDGME2000002,1,unit,2020-12-14,Active,Baik,GMN
+Multi Purpose,School Information Center(105),Asset / Capex,Mesin,Mosquito Killer,SMDGME2000003,1,unit,2020-12-14,Active,Baik,GMN
+Multi Purpose,School Information Center(105),Asset / Capex,Mesin,Paper Shredder,SMDGME2000004,1,unit,2020-12-14,Active,Baik,GMN
+Multi Purpose,School Information Center(105),Asset / Capex,Monitor AOC,Monitor AOC,SMDIMN2100001,1,unit,2021-08-05,Active,Baik,IMN
+Multi Purpose,School Information Center(105),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400002,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,AIO Lenovo i5,SMDIPC2400003,1,unit,2023-10-16,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100004,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100005,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC - Intel Core I3,SMDIPC2100008,1,Set,2018-07-10,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,PC,PC Rakitan i5,SMDIPC2100003,1,unit,2020-12-02,Active,Baik,IPC
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson,SMDIPN2300006,1,unit,2018-07-10,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000002,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson Inkjet,SMDIPN2000008,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer Epson L1110,SMDIPN2100001,1,unit,2019-08-06,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer EPSON L3210,SMDIPN2500003,1,unit,2025-01-24,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer EPSON L5290,IPN25080001,1,unit,2025-07-23,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer HP Laserjet,SMDIPN2000006,1,unit,2020-12-02,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer,Printer HP Laserjet 150 NW,SMDIPN2500004,1,unit,2025-05-22,Active,Baik,IPN
+Multi Purpose,School Information Center(105),Asset / Capex,Printer Barcode Brother,Printer Barcode Brother ,SMDIPB2500001,1,unit,2025-09-03,Active,Baik,IPB
+Multi Purpose,School Information Center(105),Asset / Capex,Radio HT,HT Teno - 211,SMDGHT1900001,1,unit,2020-12-14,Active,Baik,GHT
+Multi Purpose,School Information Center(105),Asset / Capex,Radio HT,HT Teno - 211,SMDGHT1900002,1,unit,2020-12-14,Active,Baik,GHT
+Multi Purpose,School Information Center(105),Asset / Capex,Radio HT,HT Teno - 211,SMDGHT1900003,1,unit,2020-12-14,Active,Baik,GHT
+Multi Purpose,School Information Center(105),Asset / Capex,Radio HT,HT Teno - 211,SMDGHT1900004,1,unit,2020-12-14,Active,Baik,GHT
+Multi Purpose,School Information Center(105),Asset / Capex,Radio HT,HT Teno - 211,SMDGHT1900005,1,unit,2020-12-14,Active,Baik,GHT
+Multi Purpose,School Information Center(105),Asset / Capex,Rak,Rak 3 Kolom,SMDGRK1800030,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,School Information Center(105),Asset / Capex,Rak,Rak Aluminium,SMDGRK1800057,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,School Information Center(105),Asset / Capex,Scanner Epson,Scanner Epson,SMDISN2100001,1,unit,2021-06-17,Active,Baik,ISN
+Multi Purpose,School Information Center(105),Asset / Capex,Sofa,Sofa Double Seat,SMDGSF1800053,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,School Information Center(105),Asset / Capex,Sofa,Sofa Double Seat,SMDGSF1800054,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,School Information Center(105),Asset / Capex,Sofa,Sofa Single,SMDGSF1800056,1,unit,2020-12-14,Active,Baik,GSF
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Condenser Mic,SMDGSS1900001,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS1900002,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS1900003,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100003,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100004,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100005,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100006,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100007,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100009,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100010,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Boya,SMDGSS2100011,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Shure,SMDGSS1900004,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Wireless Clip On Hardwell CLX-1,SMDGSS2400001,1,unit,2024-04-22,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Wireless Clip On Hardwell CLX-1,SMDGSS2400002,1,unit,2024-04-22,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Microphone Wireless Clip On Hardwell CLX-1,SMDGSS2400003,1,unit,2024-04-22,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Speaker F + Mic BareTone,SMDGSS1900006,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Speaker F + Mic Hardques,SMDGSS1900007,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Speaker Portable Simbadda,SMDGSS1900009,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Speaker Portable Simbadda,SMDGSS1900010,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Sound System,Speaker Portable Simbadda,SMDGSS1900011,1,unit,2020-12-14,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,Speaker ,Speaker Portable,SMDGSS2300001,1,unit,2019-07-24,Active,Baik,GSS
+Multi Purpose,School Information Center(105),Asset / Capex,UKS,Thermometer Yuwell,SMDGUK2000003,1,unit,2020-12-14,Active,Baik,GUK
+Multi Purpose,School Information Center(105),Asset / Capex,UKS,Thermometer Yuwell,SMDGUK2000004,1,unit,2020-12-14,Active,Baik,GUK
+Multi Purpose,School Information Center(105),Asset / Capex,UKS,Timbangan Badan Kris,SMDGUK1800012,1,unit,2020-12-14,Active,Baik,GUK
+Multi Purpose,School Information Center(105),Asset / Capex,UPS,UPS Infrastruktur,SMDIUP0000005,1,unit,2020-12-02,Active,Baik,IUP
+Multi Purpose,School Information Center(105),Asset / Capex,UPS,UPS Infrastruktur,SMDIUP0000007,1,unit,2020-12-02,Active,Baik,IUP
+Multi Purpose,School Information Center(105),Asset / Capex,UPS,UPS Infrastruktur,SMDIUP0000008,1,unit,2020-12-02,Active,Baik,IUP
+Multi Purpose,School Information Center(105),Asset / Capex,UPS,UPS Infrastruktur,SMDIUP0000013,1,unit,2020-12-02,Active,Baik,IUP
+Multi Purpose,School Information Center(105),Asset / Capex,Wireless Dongle,Wireless Dongle,SMDIWD2000004,1,unit,2020-12-02,Active,Baik,IWD
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,AC,AC Daikin,SMDGAC1900033,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,AC,"AC Split 1,5 PK",19100336,1,unit,2018-07-10,Active,Baik,GAC
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2300007,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,ALAT LAB,Mikroskop Binokuler XSZ-107BN,SMDGAL2300008,1,unit,2023-04-10,Active,Baik,GAL
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,ALAT LAB,Mikroskop Binokuler XSZ-107BN,SMDGAL2300009,1,unit,2023-04-10,Active,Baik,GAL
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Flip Chart Glass Board,Flip Chart Glass Board,GGB21060001,1,unit,2021-05-05,Active,Baik,GGB
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Guru,Kursi Guru Lab Sains,SMDGKG2400002,1,unit,2024-01-30,Active,Baik,GKG
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400033,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400034,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400035,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400036,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400037,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400038,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400039,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400040,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400041,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400042,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400043,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400044,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400045,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400046,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400047,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400048,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400049,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400050,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400051,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400052,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400053,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400054,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400055,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400056,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400057,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400058,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400059,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400060,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400061,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Kursi Siswa,Kursi Siswa Lab Sains,SMDGKS2400062,1,unit,2024-01-30,Active,Baik,GKS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Lemari,Kabinet Bawah Lab Sains,SMDGLM2400003,1,unit,2024-01-30,Active,Baik,GLM
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Lemari,Lemari pintu kaca Lab Science,SMDGLM2400004,1,unit,2024-01-30,Active,Baik,GLM
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Lemari,Lemari pintu kaca Lab Science,SMDGLM2400005,1,unit,2024-01-30,Active,Baik,GLM
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Guru,Meja Guru Lab Sains,SMDGMG2400002,1,unit,2024-01-30,Active,Baik,GMG
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Siswa,Meja Siswa Lab Sains,SMDGMS2400001,1,unit,2024-01-30,Active,Baik,GMS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Siswa,Meja Siswa Lab Sains,SMDGMS2400002,1,unit,2024-01-30,Active,Baik,GMS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Siswa,Meja Siswa Lab Sains,SMDGMS2400003,1,unit,2024-01-30,Active,Baik,GMS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Siswa,Meja Siswa Lab Sains,SMDGMS2400004,1,unit,2024-01-30,Active,Baik,GMS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Meja Siswa,Meja Siswa Lab Sains,SMDGMS2400005,1,unit,2024-01-30,Active,Baik,GMS
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,Softboard,Softboard Heksagonal Lab Sains,SMDGSB2400002,1,unit,2024-01-30,Active,Baik,GSB
+Multi Purpose,Science Lab Elementary - 304,Asset / Capex,WhiteBoard,Whiteboard + Dekorasi Vertikal Lab Sains,SMDGWB2400001,1,unit,2024-01-30,Active,Baik,GWB
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900048,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900049,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,AC,AC Daikin,SMDGAC1900050,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2200005,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Alat Destilasi 250 ml,SMDGAL2400001,1,unit,2024-05-27,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Alat Destilasi 500 ml,SMDGAL2400002,1,unit,2024-05-27,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,B-One Portable Incubator ,SMDGAL2400003,1,unit,2024-10-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,CATU DAYA 5A 12V ,SMDGAL1900001,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,CATU DAYA 5A 12V ,SMDGAL1900002,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,"DASAR STATIF DAN BATANG, PLAT BESI",SMDGAL1900003,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,"DASAR STATIF DAN BATANG, PLAT BESI",SMDGAL1900004,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,"DASAR STATIF DAN BATANG, PLAT BESI",SMDGAL1900005,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Garpu Tala Pada Kotak Resonasi,SMDGAL1900006,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Garpu Tala Pada Kotak Resonasi,SMDGAL1900007,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Kaki 3 Lingkaran 120 x 150 mm,SMDGAL1900008,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Kaki 3 Lingkaran 120 x 150 mm,SMDGAL1900009,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Kaki 3 Lingkaran 120 x 150 mm,SMDGAL1900010,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Kalorimeter,SMDGAL1900011,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Kalorimeter,SMDGAL1900012,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT HIDROSTATIKA DAN PANAS SMP ,SMDGAL1900017,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT HIDROSTATIKA DAN PANAS SMP ,SMDGAL1900018,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT LISTRIK & MAGNET SMP ,SMDGAL1900019,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT LISTRIK & MAGNET SMP ,SMDGAL1900020,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT MEKANIKA SMP,SMDGAL1900021,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT MEKANIKA SMP,SMDGAL1900022,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT OPTIKA SMP ,SMDGAL1900023,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,KIT OPTIKA SMP ,SMDGAL1900024,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Bosshead KST 36/40,SMDGAL1900025,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Bosshead KST 36/40,SMDGAL1900026,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Bosshead KST 36/40,SMDGAL1900027,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Bosshead KST 36/40,SMDGAL1900028,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Universal KST 34,SMDGAL1900029,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Universal KST 34,SMDGAL1900030,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Universal KST 34,SMDGAL1900031,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Klem Universal KST 34,SMDGAL1900032,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,METER DASAR 90,SMDGAL1900033,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,METER DASAR 90,SMDGAL1900034,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,METER DASAR 90,SMDGAL1900035,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Mikroskop Binokuler XSZ-107BN,SMDGAL2300002,1,unit,2023-04-10,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Mikroskop Binokuler XSZ-107BN,SMDGAL2300003,1,unit,2023-04-10,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Mikroskop Binokuler XSZ-107BN,SMDGAL2300004,1,unit,2023-04-10,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Model kerangka manusia,SMDGAL2100001,1,unit,2021-11-11,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,NERACA 311G,SMDGAL1900036,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,NERACA DIGITAL OHAUS 200G,SMDGAL1900037,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,NERACA DIGITAL OHAUS 200G,SMDGAL1900038,1,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Pembakar Spriritus 100 Ml KBS 28/02,SMDGAL1900041,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Pembakar Spriritus 100 Ml KBS 28/02,SMDGAL1900042,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Pembakar Spriritus 100 Ml KBS 28/02,SMDGAL1900043,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,SET ALAT MUAI PANJANG DAN PERLENGKAPANNYA,GAI19110017,2,unit,2019-09-13,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Stopwatch Digital KKW 71D,SMDGAL1900045,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Stopwatch Digital KKW 71D,SMDGAL1900046,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Termometer Air Raksa,SMDGAL1900047,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Termometer Air Raksa,SMDGAL1900048,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Termometer Air Raksa,SMDGAL1900049,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Termometer Air Raksa,SMDGAL1900050,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,ALAT LAB,Termometer Air Raksa,SMDGAL1900051,1,unit,2020-12-14,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Alat Laboratory,Timbangan Analitik Lab  (Osuka),SMDGAL2500001,1,unit,2025-02-27,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900029,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900030,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900031,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900032,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900033,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900034,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900035,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900036,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900037,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900038,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900039,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900040,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900041,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900042,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900043,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900044,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900045,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900046,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900047,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi custem Bulat,SMDGKR1900048,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900218,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900219,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900220,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900221,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900222,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900223,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900224,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900225,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900226,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900227,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900228,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,KURSI,Kursi New Star,SMDGKR1900229,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Kursi Guru,Kursi Guru Chitose,SMDGKG1800014,1,unit,2020-12-14,Active,Baik,GKG
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Lemari,Lemari Asam,SMDGLM2300007,1,unit,2023-03-06,Active,Baik,GLM
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Lemari,Lemari Custom,SMDGLM1800050,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Lemari,Lemari Kaca Besi,SMDGLM1800052,1,unit,2020-12-14,Active,Baik,GLM
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja 240X80,SMDGMJ1900004,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja 240X80,SMDGMJ1900005,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja 240X80,SMDGMJ1900006,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja Segidelapan,SMDGMJ1900072,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja Segidelapan,SMDGMJ1900073,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja Segidelapan,SMDGMJ1900074,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja Segidelapan,SMDGMJ1900075,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja,Meja Segidelapan,SMDGMJ1900076,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Meja Guru,Meja Guru,SMDGMG1800021,1,unit,2020-12-14,Active,Baik,GMG
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Mikroskop Binokuler,Mikroskop Binokuler,GAI20030002,2,unit,2020-02-24,Active,Baik,GAL
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Projector,Projector Infocus ,SMDIPJ0000008,1,unit,2019-01-15,Active,Baik,IPJ
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200012,1,unit,2019-03-14,Active,Baik,IPS
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Softboard,Soft Board 120X90,SMDGSB1800001,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,Softboard,Soft Board 120X90,SMDGSB1800002,1,unit,2020-12-14,Active,Baik,GSB
+Multi Purpose,Science Laboratory JHS SHS - 406,Asset / Capex,WhiteBoard,White Board 240X120,SMDGWB1800026,1,unit,2020-12-14,Active,Baik,GWB
+Multi Purpose,STEM Classroom - 307,Asset / Capex,AC,AC Daikin,SMDGAC1900041,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,STEM Classroom - 307,Asset / Capex,AC,AC Daikin,SMDGAC1900042,1,unit,2020-12-14,Active,Baik,GAC
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Access Point,Access Point Unifi,SMDIAP2000007,1,unit,2020-12-02,Active,Baik,IAP
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900080,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900081,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900082,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900083,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900084,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900085,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900086,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900087,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900088,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900089,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900090,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900091,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900092,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900093,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900094,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900095,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900096,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900097,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900098,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900099,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900100,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900101,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900102,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900103,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900104,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900105,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900106,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900107,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900108,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,KURSI,Kursi Custom,SMDGKR1900109,1,unit,2020-12-14,Active,Baik,GKR
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Kursi Guru,Kursi Guru Chitose,SMDGKG1800013,1,unit,2020-12-14,Active,Baik,GKG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 240X80,SMDGMJ1900023,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900024,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900025,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900026,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900027,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900028,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900029,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900030,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem 70X50,SMDGMJ1900031,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem100X100,SMDGMJ1900034,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem100X100,SMDGMJ1900035,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem100X100,SMDGMJ1900036,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Custem100X100,SMDGMJ1900037,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja,Meja Lipat,SMDGMJ1800013,1,unit,2020-12-14,Active,Baik,GMJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Meja Guru,Meja Guru Custem,SMDGMG1800022,1,unit,2020-12-14,Active,Baik,GMG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Projector,Projector Epson,SMDIPJ2200004,1,unit,2020-12-02,Active,Baik,IPJ
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Rak,Rak 29 Kolom,SMDGRK1800027,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Rak,Rak Dinding 1 Kolom,SMDGRK1800069,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Rak,Rak Dinding 1 Kolom,SMDGRK1800070,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Rak,Rak Dinding 1 Kolom,SMDGRK1800071,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,STEM Classroom - 307,Asset / Capex,Rak,Rak Dinding 26 Kolom,SMDGRK1800073,1,unit,2020-12-14,Active,Baik,GRK
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,photosynthesis,SMDGBG1900041,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,photosynthesis,SMDGBG1900042,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,pylos,SMDGBG1900043,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,quarto,SMDGBG1900044,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,quoridor,SMDGBG1900045,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,quoridor mini,SMDGBG1900046,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,rabbit rally,SMDGBG1900047,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,sagrada,SMDGBG1900048,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,scrabaya,SMDGBG1900049,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,scrabaya,SMDGBG1900050,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,specifics,SMDGBG1900051,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,spindrella,SMDGBG1900052,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,splendor,SMDGBG1900053,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,sushi go,SMDGBG1900054,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,take 6,SMDGBG1900055,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,the hearmees,SMDGBG1900056,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,top that!,SMDGBG1900057,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,topiary,SMDGBG1900058,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,troika,SMDGBG1900059,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,TTRFJ (Europe),SMDGBG1900060,1,unit,2020-12-14,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SD,zogen,SMDGBG1900061,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,7 ate 9,SMDGBG1900001,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,abraca what,SMDGBG1900002,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Animal Upon Animal,SMDGBG1900003,1,unit,2020-12-14,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,aquatico,SMDGBG1900004,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,azul,SMDGBG1900005,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,barenpark,SMDGBG1900006,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,bluffing billionaire,SMDGBG1900007,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Booo!,SMDGBG1900008,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Booo!,SMDGBG1900009,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,braintopia,SMDGBG1900010,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,bullfrogs,SMDGBG1900011,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,chicky boom,SMDGBG1900013,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,code names,SMDGBG1900014,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,coyote,SMDGBG1900015,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,croak!,SMDGBG1900016,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,cytosis*,SMDGBG1900018,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,DingoS Dream,SMDGBG1900020,1,unit,2020-12-14,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,downforce,SMDGBG1900022,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,dr microbe,SMDGBG1900023,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Geistesblitz S D,SMDGBG1900024,1,unit,2020-12-14,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,gemblo deluxe,SMDGBG1900025,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,get packing,SMDGBG1900026,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,get packing,SMDGBG1900027,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,haru ichiban,SMDGBG1900028,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Hey ThatS My Fish,SMDGBG1900029,1,unit,2020-12-14,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,high society,SMDGBG1900030,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,katamino,SMDGBG1900031,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,letter tycoon,SMDGBG1900032,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,marrakech,SMDGBG1900033,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Mod-X,SMDGBG1900035,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,monza,SMDGBG1900036,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,multiplied fortune,SMDGBG1900037,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,my happy farm,SMDGBG1900038,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,Niagara,SMDGBG1900039,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCIENCE AND MATH BOARD GAMES SMP,pharao code,SMDGBG1900040,1,unit,2019-08-20,Active,Baik,GBG
+Multi Purpose,STEM Classroom - 307,Asset / Capex,SCREEN PROYECTOR,"Screen Projector Manual Wall 84"" - Layar Projector Manual 84""",SMDIPS2200010,1,unit,2019-03-14,Active,Baik,IPS
+Multi Purpose,STEM Classroom - 307,Asset / Capex,WhiteBoard,White Board 240X120,SMDGWB1800025,1,unit,2020-12-14,Active,Baik,GWB

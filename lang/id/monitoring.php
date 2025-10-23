@@ -1,0 +1,98 @@
+<?php
+
+return [
+    'title' => 'Monitoring Sarana & Prasarana',
+    'subtitle' => 'Digital Inventaris',
+    'description' => 'Menampilkan daftar sarpras elektronik atau digital seperti PC, proyektor, printer, CCTV, dll.',
+    
+    // Additional missing translations
+    'all_categories' => 'Semua Kategori',
+    'all_item_types' => 'Semua Jenis Item',
+    'all_room_codes' => 'Semua Kode Ruangan',
+    'all_status' => 'Semua Status',
+    'barcode' => 'Barcode',
+    'barcode_status' => 'Status Barcode',
+    'close_modal' => 'Tutup',
+    'date_added' => 'Tanggal Ditambahkan',
+    'download_qr_code' => 'Download QR Code',
+    'filter_by_category' => 'Filter Berdasarkan Kategori',
+    'filter_by_item_type' => 'Filter Jenis Item',
+    'filter_by_room_code' => 'Filter Kode Ruangan',
+    'filter_by_status' => 'Filter Berdasarkan Status',
+    'generate_qr' => 'Generate QR Code',
+    'item_category' => 'Kategori',
+    'item_details' => 'Detail Barang',
+    'item_name' => 'Nama Barang',
+    'item_status' => 'Status Barang',
+    'item_type' => 'Jenis',
+    'item_updated_successfully' => 'Barang berhasil diperbarui',
+    'no_items_found' => 'Tidak ada barang ditemukan',
+    'notes' => 'Catatan',
+    'qr_code_generated' => 'QR Code berhasil dibuat',
+    'qr_code_modal_title' => 'QR Code Berhasil Dibuat!',
+    'qr_code_not_found' => 'QR Code tidak ditemukan!',
+    'qr_code_save_instruction' => 'Klik kanan pada QR code di atas untuk menyimpan sebagai gambar',
+    'quantity' => 'Jumlah',
+    'room_code' => 'Kode Ruangan',
+    'room_name' => 'Ruangan',
+    
+    // Filters
+    'filter_by_room' => 'Filter Berdasarkan Ruangan',
+    'filter_by_room_code' => 'Filter Kode Ruangan',
+    'filter_by_item_type' => 'Filter Jenis Item',
+    'filter_by_category' => 'Filter Berdasarkan Kategori',
+    'filter_by_status' => 'Filter Berdasarkan Status',
+    'all_rooms' => 'Semua Ruangan',
+    'all_room_codes' => 'Semua Kode Ruangan',
+    'all_item_types' => 'Semua Jenis Item',
+    'all_categories' => 'Semua Kategori',
+    'all_status' => 'Semua Status',
+    
+    // Table headers
+    'item_name' => 'Nama Barang',
+    'item_type' => 'Jenis',
+    'item_category' => 'Kategori',
+    'barcode' => 'Barcode',
+    'quantity' => 'Jumlah',
+    'unit' => 'Satuan',
+    'date_added' => 'Tanggal Ditambahkan',
+    'barcode_status' => 'Status Barcode',
+    'item_status' => 'Status Barang',
+    'room_name' => 'Ruangan',
+    'room_code' => 'Kode Ruangan',
+    
+    // Actions
+    'view_details' => 'Lihat Detail',
+    'edit_item' => 'Edit Barang',
+    'delete_item' => 'Hapus Barang',
+    'generate_qr' => 'Generate QR Code',
+    
+    // Messages
+    'no_items_found' => 'Tidak ada barang ditemukan',
+    'item_updated_successfully' => 'Barang berhasil diperbarui',
+    'item_deleted_successfully' => 'Barang berhasil dihapus',
+    'qr_code_generated' => 'QR Code berhasil dibuat',
+    'item_details' => 'Detail Barang',
+    
+    // QR Code Modal
+    'qr_code_modal_title' => 'QR Code Berhasil Dibuat!',
+    'qr_code_modal_description' => 'QR Code telah berhasil dibuat untuk item ini.',
+    'download_qr_code' => 'Download QR Code',
+    'close_modal' => 'Tutup',
+    'qr_code_save_instruction' => 'Klik kanan pada QR code di atas untuk menyimpan sebagai gambar',
+    'qr_code_not_found' => 'QR Code tidak ditemukan!',
+    
+    // Digital items
+    'digital_items' => 'Barang Digital',
+    'electronic_items' => 'Barang Elektronik',
+    'computer' => 'Komputer',
+    'projector' => 'Proyektor',
+    'printer' => 'Printer',
+    'cctv' => 'CCTV',
+    'speaker' => 'Speaker',
+    'monitor' => 'Monitor',
+    'keyboard' => 'Keyboard',
+    'mouse' => 'Mouse',
+    'router' => 'Router',
+    'switch' => 'Switch',
+];
