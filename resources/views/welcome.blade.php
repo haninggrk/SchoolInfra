@@ -186,8 +186,8 @@
                              data-building="{{ $room->building }}">
                             <div class="flex items-start justify-between mb-4">
                                 <div class="flex-1">
-                                    <h3 class="text-xl font-bold text-gray-900 mb-1">{{ $room->name }}</h3>
-                                    <p class="text-sm text-gray-500">{{ __('room.room_code') }}: {{ $room->code }}</p>
+                                    <h3 class="text-xl font-bold text-gray-900 mb-1">{{ $room->code }} </h3>
+                                    <p class="text-sm text-gray-500">{{ $room->name }} </p>
                                 </div>
                                 <div class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-semibold">
                                     <i class="fas fa-qrcode mr-1"></i>

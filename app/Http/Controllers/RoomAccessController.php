@@ -13,7 +13,11 @@ class RoomAccessController extends Controller
      */
     public function selectRole($roomCode)
     {
-        return view('room-access.select-role', compact('roomCode'));
+        $room = \Modules\Shared\Models\Room::where('code', $roomCode)
+            ->where('is_active', true)
+            ->firstOrFail();
+        
+        return view('room-access.select-role', compact('roomCode', 'room'));
     }
 
     /**

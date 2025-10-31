@@ -46,7 +46,7 @@
         </div>
 
         <!-- Quick Actions -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 mb-8">
             <a href="{{ route('monitoring.index') }}" 
                class="bg-blue-50 hover:bg-blue-100 border border-blue-200 rounded-lg p-6 text-center transition-colors">
                 <i class="fas fa-desktop text-3xl text-blue-600 mb-3"></i>
@@ -68,12 +68,21 @@
                 <p class="text-sm text-green-700">{{ __('room.inventaris_description') }}</p>
             </a>
             
-            <a href="/" 
-               class="bg-purple-50 hover:bg-purple-100 border border-purple-200 rounded-lg p-6 text-center transition-colors">
-                <i class="fas fa-qrcode text-3xl text-purple-600 mb-3"></i>
-                <h3 class="text-lg font-semibold text-purple-900">{{ __('room.rooms') }}</h3>
-                <p class="text-sm text-purple-700">{{ __('room.room_description') }}</p>
+            @if(auth()->user()->isAdmin())
+            <a href="{{ route('users.index') }}" 
+               class="bg-indigo-50 hover:bg-indigo-100 border border-indigo-200 rounded-lg p-6 text-center transition-colors">
+                <i class="fas fa-users text-3xl text-indigo-600 mb-3"></i>
+                <h3 class="text-lg font-semibold text-indigo-900">Manajemen User</h3>
+                <p class="text-sm text-indigo-700">Kelola user (Guru, Housekeeping, Student)</p>
             </a>
+            
+            <a href="{{ route('admin.room-schedule.index') }}" 
+               class="bg-teal-50 hover:bg-teal-100 border border-teal-200 rounded-lg p-6 text-center transition-colors">
+                <i class="fas fa-calendar-alt text-3xl text-teal-600 mb-3"></i>
+                <h3 class="text-lg font-semibold text-teal-900">Jadwal Ruangan</h3>
+                <p class="text-sm text-teal-700">Lihat jadwal booking semua ruangan</p>
+            </a>
+            @endif
         </div>
 
         <!-- Statistics Cards -->

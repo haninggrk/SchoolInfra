@@ -10,6 +10,17 @@ use Illuminate\Support\Facades\DB;
 class InventorySeeder extends Seeder
 {
     /**
+     * Classroom images from Unsplash for auto-generated rooms
+     */
+    private function getDefaultRoomImages(): array
+    {
+        return [
+            'https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1280&h=720&fit=crop&q=80', // Modern classroom
+            'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1280&h=720&fit=crop&q=80', // Classroom with desks
+        ];
+    }
+
+    /**
      * Run the database seeds.
      */
     public function run(): void
@@ -55,6 +66,8 @@ class InventorySeeder extends Seeder
                 
                 // Get or create room
                 if (!isset($roomCache[$roomCode])) {
+                    $defaultImages = $this->getDefaultRoomImages();
+                    
                     $room = Room::firstOrCreate(
                         ['code' => $roomCode],
                         [
@@ -63,8 +76,15 @@ class InventorySeeder extends Seeder
                             'floor' => null,
                             'building' => null,
                             'is_active' => true,
+                            'image_urls' => $defaultImages, // Add default images for all rooms
                         ]
                     );
+                    
+                    // If room already exists but doesn't have images, add them
+                    if (empty($room->image_urls)) {
+                        $room->update(['image_urls' => $defaultImages]);
+                    }
+                    
                     $roomCache[$roomCode] = $room->id;
                 }
                 

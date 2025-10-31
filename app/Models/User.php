@@ -68,6 +68,22 @@ class User extends Authenticatable
     }
 
     /**
+     * Check if user is housekeeping.
+     */
+    public function isHousekeeping(): bool
+    {
+        return $this->role === 'housekeeping';
+    }
+
+    /**
+     * Check if user is student.
+     */
+    public function isStudent(): bool
+    {
+        return $this->role === 'student';
+    }
+
+    /**
      * Get role badge class for UI.
      */
     public function getRoleBadgeClassAttribute(): string
@@ -75,6 +91,8 @@ class User extends Authenticatable
         return match($this->role) {
             'admin' => 'bg-purple-100 text-purple-800',
             'guru' => 'bg-blue-100 text-blue-800',
+            'housekeeping' => 'bg-green-100 text-green-800',
+            'student' => 'bg-yellow-100 text-yellow-800',
             default => 'bg-gray-100 text-gray-800',
         };
     }

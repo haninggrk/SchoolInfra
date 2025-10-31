@@ -23,6 +23,7 @@
                         </div>
                     </div>
                     <div class="flex items-center space-x-2 md:space-x-4">
+                        @if($role === 'guru' && $guruId)
                         <button 
                             wire:click="openBookingForm"
                             class="bg-blue-600 hover:bg-blue-700 text-white px-3 md:px-4 py-2 rounded-lg text-sm font-medium transition-colors"
@@ -31,6 +32,13 @@
                             <span class="hidden md:inline">Tambah Booking</span>
                             <span class="md:hidden">Booking</span>
                         </button>
+                        @else
+                        <span class="inline-flex items-center px-3 md:px-4 py-2 bg-gray-100 text-gray-600 rounded-lg text-sm font-medium">
+                            <i class="fas fa-eye mr-2"></i>
+                            <span class="hidden md:inline">View Only</span>
+                            <span class="md:hidden">View</span>
+                        </span>
+                        @endif
                     </div>
                 </div>
             </div>
@@ -88,12 +96,23 @@
                     
                     <div class="text-center flex-1 mx-4">
                         <h2 class="text-lg md:text-xl font-bold text-gray-900">
+                            @php
+                                // Ensure $selectedDate is always a Carbon instance
+                                try {
+                                    $dateObj = $selectedDate instanceof \Carbon\Carbon 
+                                        ? $selectedDate 
+                                        : \Carbon\Carbon::parse($selectedDate);
+                                } catch (\Exception $e) {
+                                    // Fallback to current date if parsing fails
+                                    $dateObj = \Carbon\Carbon::now();
+                                }
+                            @endphp
                             @if($viewMode === 'day')
-                                {{ $selectedDate->isoFormat('dddd, D MMMM YYYY') }}
+                                {{ $dateObj->isoFormat('dddd, D MMMM YYYY') }}
                             @elseif($viewMode === 'week')
-                                {{ $selectedDate->copy()->startOfWeek()->isoFormat('D MMM') }} - {{ $selectedDate->copy()->endOfWeek()->isoFormat('D MMM YYYY') }}
+                                {{ $dateObj->copy()->startOfWeek()->isoFormat('D MMM') }} - {{ $dateObj->copy()->endOfWeek()->isoFormat('D MMM YYYY') }}
                             @else
-                                {{ $selectedDate->isoFormat('MMMM YYYY') }}
+                                {{ $dateObj->isoFormat('MMMM YYYY') }}
                             @endif
                         </h2>
                         <button 
@@ -118,6 +137,7 @@
                 <div class="bg-white rounded-lg shadow-sm p-8 text-center">
                     <i class="fas fa-calendar-times text-4xl text-gray-400 mb-4"></i>
                     <p class="text-gray-500 mb-4">Tidak ada jadwal untuk periode ini</p>
+                    @if($role === 'guru' && $guruId)
                     <button 
                         wire:click="openBookingForm"
                         class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg text-sm font-medium transition-colors inline-flex items-center"
@@ -125,20 +145,21 @@
                         <i class="fas fa-plus mr-2"></i>
                         Tambah Booking Baru
                     </button>
+                    @endif
                 </div>
             @else
                 <div class="space-y-4">
                     @if($viewMode === 'day')
                         <!-- Day View - Timeline -->
                         @foreach($bookings as $booking)
-                            <div class="bg-white rounded-lg shadow-sm p-4 md:p-6 border-l-4 {{ $booking->user_id === $guruId ? 'border-blue-500' : 'border-purple-500' }}">
+                            <div class="bg-white rounded-lg shadow-sm p-4 md:p-6 border-l-4 {{ ($role === 'guru' && $guruId && $booking->user_id === $guruId) ? 'border-blue-500' : 'border-purple-500' }}">
                                 <div class="flex items-start justify-between">
                                     <div class="flex-1">
                                         <div class="flex flex-wrap items-center gap-2 mb-2">
                                             <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-purple-100 text-purple-800">
                                                 {{ Carbon\Carbon::parse($booking->start_time)->format('H:i') }} - {{ Carbon\Carbon::parse($booking->end_time)->format('H:i') }}
                                             </span>
-                                            @if($booking->user_id === $guruId)
+                                            @if($role === 'guru' && $guruId && $booking->user_id === $guruId)
                                                 <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
                                                     <i class="fas fa-user mr-1"></i>Booking Saya
                                                 </span>
@@ -150,7 +171,7 @@
                                             <p class="text-sm text-gray-700">{{ $booking->description }}</p>
                                         @endif
                                     </div>
-                                    @if($booking->user_id === $guruId && $booking->status === 'approved')
+                                    @if($role === 'guru' && $guruId && $booking->user_id === $guruId && $booking->status === 'approved')
                                         <button 
                                             wire:click="cancelBooking({{ $booking->id }})"
                                             wire:confirm="Apakah Anda yakin ingin membatalkan booking ini?"
@@ -183,7 +204,7 @@
                                                     <div class="flex-1 min-w-0">
                                                         <div class="flex flex-wrap items-center gap-2 mb-1">
                                                             <h4 class="font-semibold text-gray-900">{{ $booking->subject }}</h4>
-                                                            @if($booking->user_id === $guruId)
+                                                            @if($role === 'guru' && $guruId && $booking->user_id === $guruId)
                                                                 <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-blue-100 text-blue-800">
                                                                     <i class="fas fa-user mr-1"></i>Saya
                                                                 </span>
@@ -195,7 +216,7 @@
                                                         @endif
                                                     </div>
                                                 </div>
-                                                @if($booking->user_id === $guruId && $booking->status === 'approved')
+                                                @if($role === 'guru' && $guruId && $booking->user_id === $guruId && $booking->status === 'approved')
                                                     <button 
                                                         wire:click="cancelBooking({{ $booking->id }})"
                                                         wire:confirm="Apakah Anda yakin ingin membatalkan booking ini?"

@@ -88,12 +88,23 @@
                     
                     <div class="text-center flex-1 mx-4">
                         <h2 class="text-lg md:text-xl font-bold text-gray-900">
+                            @php
+                                // Ensure $selectedDate is always a Carbon instance
+                                try {
+                                    $dateObj = $selectedDate instanceof \Carbon\Carbon 
+                                        ? $selectedDate 
+                                        : \Carbon\Carbon::parse($selectedDate);
+                                } catch (\Exception $e) {
+                                    // Fallback to current date if parsing fails
+                                    $dateObj = \Carbon\Carbon::now();
+                                }
+                            @endphp
                             @if($viewMode === 'day')
-                                {{ $selectedDate->isoFormat('dddd, D MMMM YYYY') }}
+                                {{ $dateObj->isoFormat('dddd, D MMMM YYYY') }}
                             @elseif($viewMode === 'week')
-                                {{ $selectedDate->copy()->startOfWeek()->isoFormat('D MMM') }} - {{ $selectedDate->copy()->endOfWeek()->isoFormat('D MMM YYYY') }}
+                                {{ $dateObj->copy()->startOfWeek()->isoFormat('D MMM') }} - {{ $dateObj->copy()->endOfWeek()->isoFormat('D MMM YYYY') }}
                             @else
-                                {{ $selectedDate->isoFormat('MMMM YYYY') }}
+                                {{ $dateObj->isoFormat('MMMM YYYY') }}
                             @endif
                         </h2>
                         <button 

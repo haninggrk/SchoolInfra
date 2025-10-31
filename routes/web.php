@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use Modules\Shared\Http\Controllers\RoomController;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\Admin\RoomScheduleController;
 
 /*
 |--------------------------------------------------------------------------
@@ -57,6 +59,9 @@ Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login')->m
 Route::post('/login', [AuthController::class, 'login']);
 Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
 
+// Public API route for student search (used in room access)
+Route::get('/users/search-students', [UserController::class, 'searchStudents'])->name('users.search-students');
+
 // Admin routes (protected by auth middleware)
 Route::middleware(['auth'])->group(function () {
     // Dashboard
@@ -82,5 +87,19 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/', \Modules\Inventaris\Http\Livewire\InventarisIndex::class)->name('index');
         Route::get('/create', \Modules\Inventaris\Http\Livewire\InventarisForm::class)->name('create');
         Route::get('/{itemId}/edit', \Modules\Inventaris\Http\Livewire\InventarisForm::class)->name('edit');
+    });
+    
+    // User Management routes (Admin only)
+    Route::prefix('users')->name('users.')->group(function () {
+        Route::get('/', [UserController::class, 'index'])->name('index');
+        Route::post('/', [UserController::class, 'store'])->name('store');
+        Route::put('/{id}', [UserController::class, 'update'])->name('update');
+        Route::delete('/{id}', [UserController::class, 'destroy'])->name('destroy');
+    });
+    
+    // Room Schedule routes (Admin only)
+    Route::prefix('admin/room-schedule')->name('admin.room-schedule.')->group(function () {
+        Route::get('/', [RoomScheduleController::class, 'index'])->name('index');
+        Route::get('/{room}', [RoomScheduleController::class, 'show'])->name('show');
     });
 });

@@ -22,6 +22,61 @@
             </div>
         </div>
 
+        <!-- Room Layout Images Slider -->
+        @if($room->image_urls && count($room->image_urls) > 0)
+        <div class="max-w-4xl mx-auto mb-8 md:mb-12">
+            <div class="bg-white rounded-2xl shadow-lg overflow-hidden">
+                <div class="relative">
+                    <!-- Slider Container -->
+                    <div class="room-slider" id="roomSlider">
+                        @foreach($room->image_urls as $index => $imageUrl)
+                            <div class="room-slide {{ $index === 0 ? 'active' : '' }}" data-slide="{{ $index }}">
+                                <img src="{{ $imageUrl }}?w=1280&h=720&fit=crop" 
+                                     alt="Standard Penataan Ruangan {{ $room->name }} - {{ $index + 1 }}"
+                                     class="w-full h-64 md:h-96 object-cover"
+                                     loading="lazy">
+                            </div>
+                        @endforeach
+                    </div>
+                    
+                    <!-- Navigation Arrows -->
+                    @if(count($room->image_urls) > 1)
+                    <button onclick="previousSlide()" 
+                            class="absolute left-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 hover:bg-opacity-70 text-white rounded-full p-2 md:p-3 transition-all">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button onclick="nextSlide()" 
+                            class="absolute right-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 hover:bg-opacity-70 text-white rounded-full p-2 md:p-3 transition-all">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                    
+                    <!-- Dots Indicator -->
+                    <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2">
+                        @foreach($room->image_urls as $index => $imageUrl)
+                            <button onclick="goToSlide({{ $index }})" 
+                                    class="slide-dot {{ $index === 0 ? 'active' : '' }} w-2 h-2 rounded-full bg-white bg-opacity-50 hover:bg-opacity-100 transition-all"
+                                    data-dot="{{ $index }}"></button>
+                        @endforeach
+                    </div>
+                    @endif
+                    
+                    <!-- Slide Counter -->
+                    <div class="absolute top-4 right-4 bg-black bg-opacity-50 text-white px-3 py-1 rounded-full text-sm">
+                        <span id="slideCounter">1</span> / {{ count($room->image_urls) }}
+                    </div>
+                </div>
+                
+                <!-- Caption -->
+                <div class="px-4 md:px-6 py-4 bg-gray-50">
+                    <p class="text-sm md:text-base text-gray-700 text-center">
+                        <i class="fas fa-info-circle text-blue-600 mr-2"></i>
+                        <strong>Standard Penataan Ruangan:</strong> {{ $room->name }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        @endif
+
         <!-- Role Selection Cards -->
         <div class="max-w-4xl mx-auto">
             <h2 class="text-xl md:text-2xl font-bold text-center text-gray-900 mb-6 md:mb-8">Masuk Sebagai</h2>
@@ -104,6 +159,70 @@
             </div>
         </div>
     </div>
+
+    @if($room->image_urls && count($room->image_urls) > 1)
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.room-slide');
+        const dots = document.querySelectorAll('.slide-dot');
+        const totalSlides = {{ count($room->image_urls) }};
+
+        function showSlide(index) {
+            // Hide all slides
+            slides.forEach(slide => slide.classList.remove('active'));
+            dots.forEach(dot => dot.classList.remove('active'));
+            
+            // Show current slide
+            if (slides[index]) {
+                slides[index].classList.add('active');
+            }
+            if (dots[index]) {
+                dots[index].classList.add('active');
+            }
+            
+            // Update counter
+            document.getElementById('slideCounter').textContent = index + 1;
+            currentSlide = index;
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        function previousSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        function goToSlide(index) {
+            showSlide(index);
+        }
+
+        // Auto-play slider (optional, uncomment to enable)
+        // setInterval(nextSlide, 5000);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowLeft') previousSlide();
+            if (e.key === 'ArrowRight') nextSlide();
+        });
+    </script>
+    
+    <style>
+        .room-slide {
+            display: none;
+        }
+        .room-slide.active {
+            display: block;
+        }
+        .slide-dot.active {
+            background-color: rgba(255, 255, 255, 1) !important;
+            width: 8px;
+            height: 8px;
+        }
+    </style>
+    @endif
 </body>
 </html>
 

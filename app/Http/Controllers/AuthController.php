@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
-use Modules\Shared\Models\User;
+use App\Models\User;
 
 class AuthController extends Controller
 {
@@ -20,6 +20,15 @@ class AuthController extends Controller
             'email' => 'required|email',
             'password' => 'required',
         ]);
+
+        $user = User::where('email', $credentials['email'])->first();
+
+        // Prevent students from logging in
+        if ($user && $user->role === 'student') {
+            return back()->withErrors([
+                'email' => 'Siswa tidak dapat login ke sistem.',
+            ])->onlyInput('email');
+        }
 
         if (Auth::attempt($credentials, $request->boolean('remember'))) {
             $request->session()->regenerate();

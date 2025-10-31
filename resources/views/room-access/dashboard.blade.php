@@ -114,34 +114,31 @@
                 </div>
             </a>
 
-            <!-- Jadwal Ruangan (Siswa) or Booking Ruangan (Guru) -->
-            @if($role === 'siswa')
-            <a href="{{ route('room.jadwal', $roomCode) }}" 
+            <!-- Jadwal Ruangan / Booking Ruangan - Both Siswa and Guru go to same page -->
+            <a href="{{ route('room.booking', $roomCode) }}" 
                class="group bg-white hover:bg-purple-50 border-2 border-purple-200 hover:border-purple-400 rounded-xl p-5 md:p-6 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
                 <div class="flex items-start space-x-4">
                     <div class="bg-purple-100 group-hover:bg-purple-500 rounded-lg w-12 h-12 md:w-14 md:h-14 flex items-center justify-center flex-shrink-0 transition-colors duration-300">
                         <i class="fas fa-calendar-alt text-xl md:text-2xl text-purple-600 group-hover:text-white transition-colors duration-300"></i>
                     </div>
                     <div class="flex-1 min-w-0">
-                        <h3 class="text-base md:text-lg font-semibold text-gray-900 mb-1">Jadwal Ruangan</h3>
-                        <p class="text-xs md:text-sm text-gray-600">Lihat jadwal pemakaian ruangan</p>
+                        <h3 class="text-base md:text-lg font-semibold text-gray-900 mb-1">
+                            @if($role === 'siswa')
+                                Jadwal Ruangan
+                            @else
+                                Booking Ruangan
+                            @endif
+                        </h3>
+                        <p class="text-xs md:text-sm text-gray-600">
+                            @if($role === 'siswa')
+                                Lihat jadwal pemakaian ruangan (read-only)
+                            @else
+                                Lihat & booking ruangan
+                            @endif
+                        </p>
                     </div>
                 </div>
             </a>
-            @else
-            <a href="{{ route('room.booking', $roomCode) }}" 
-               class="group bg-white hover:bg-purple-50 border-2 border-purple-200 hover:border-purple-400 rounded-xl p-5 md:p-6 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-                <div class="flex items-start space-x-4">
-                    <div class="bg-purple-100 group-hover:bg-purple-500 rounded-lg w-12 h-12 md:w-14 md:h-14 flex items-center justify-center flex-shrink-0 transition-colors duration-300">
-                        <i class="fas fa-calendar-plus text-xl md:text-2xl text-purple-600 group-hover:text-white transition-colors duration-300"></i>
-                    </div>
-                    <div class="flex-1 min-w-0">
-                        <h3 class="text-base md:text-lg font-semibold text-gray-900 mb-1">Booking Ruangan</h3>
-                        <p class="text-xs md:text-sm text-gray-600">Lihat & booking ruangan</p>
-                    </div>
-                </div>
-            </a>
-            @endif
         </div>
 
         <!-- Info Banner -->
