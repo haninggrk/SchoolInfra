@@ -17,10 +17,12 @@ class Room extends Model
         'floor',
         'building',
         'is_active',
+        'image_urls',
     ];
 
     protected $casts = [
         'is_active' => 'boolean',
+        'image_urls' => 'array',
     ];
 
     /**

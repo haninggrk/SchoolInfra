@@ -46,9 +46,10 @@
                 <form wire:submit.prevent="createReport" class="p-4 md:p-6">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <!-- Nama Pelapor -->
-                        <div>
+                        <div class="relative">
                             <label class="block text-sm font-medium text-gray-700 mb-1.5">Nama Pelapor <span class="text-red-500">*</span></label>
-                            <input type="text" wire:model="reporter_name" class="w-full px-3 py-2 border rounded-lg @error('reporter_name') border-red-500 @enderror" placeholder="Masukkan nama" required>
+                            <input type="text" id="reporterNameInput" wire:model="reporter_name" class="w-full px-3 py-2 border rounded-lg @error('reporter_name') border-red-500 @enderror" placeholder="Ketik nama student..." required autocomplete="off">
+                            <div id="studentSuggestions" class="hidden absolute z-10 w-full mt-1 bg-white border border-gray-300 rounded-lg shadow-lg max-h-60 overflow-y-auto"></div>
                             @error('reporter_name') <p class="mt-1 text-xs text-red-600">{{ $message }}</p> @enderror
                         </div>
 
@@ -100,6 +101,59 @@
                 </form>
             </div>
         </main>
+
+        <script>
+            let searchTimeout;
+            const nameInput = document.getElementById('reporterNameInput');
+            const suggestionsDiv = document.getElementById('studentSuggestions');
+
+            nameInput.addEventListener('input', function() {
+                const query = this.value.trim();
+                
+                clearTimeout(searchTimeout);
+                
+                if (query.length < 2) {
+                    suggestionsDiv.classList.add('hidden');
+                    return;
+                }
+
+                searchTimeout = setTimeout(() => {
+                    fetch(`/users/search-students?q=${encodeURIComponent(query)}`)
+                        .then(response => response.json())
+                        .then(students => {
+                            if (students.length === 0) {
+                                suggestionsDiv.classList.add('hidden');
+                                return;
+                            }
+
+                            suggestionsDiv.innerHTML = students.map(student => `
+                                <div class="px-4 py-2 hover:bg-gray-100 cursor-pointer border-b border-gray-100 last:border-b-0" 
+                                     onclick="selectStudent('${student.name.replace(/'/g, "\\'")}', '${student.email || ''}')">
+                                    <div class="font-medium text-gray-900">${student.name}</div>
+                                    ${student.email ? `<div class="text-xs text-gray-500">${student.email}</div>` : ''}
+                                </div>
+                            `).join('');
+                            suggestionsDiv.classList.remove('hidden');
+                        })
+                        .catch(error => {
+                            console.error('Error searching students:', error);
+                        });
+                }, 300);
+            });
+
+            function selectStudent(name, email) {
+                nameInput.value = name;
+                @this.set('reporter_name', name);
+                suggestionsDiv.classList.add('hidden');
+            }
+
+            // Close suggestions when clicking outside
+            document.addEventListener('click', function(event) {
+                if (!nameInput.contains(event.target) && !suggestionsDiv.contains(event.target)) {
+                    suggestionsDiv.classList.add('hidden');
+                }
+            });
+        </script>
     </body>
     </html>
 </div>

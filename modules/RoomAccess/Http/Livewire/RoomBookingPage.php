@@ -38,8 +38,9 @@ class RoomBookingPage extends Component
         $this->selectedDate = now()->toDateString();
         $this->booking_date = now()->toDateString();
         
-        // Check if user has access and is guru
-        if (Session::get('room_role') !== 'guru' || !Session::has('guru_id')) {
+        // Check if user has access (guru or siswa)
+        $role = Session::get('room_role');
+        if (!$role || ($role === 'guru' && !Session::has('guru_id'))) {
             return redirect()->route('room.select-role', $roomCode);
         }
     }
@@ -55,13 +56,13 @@ class RoomBookingPage extends Component
         
         switch ($this->viewMode) {
             case 'day':
-                $this->selectedDate = $date->subDay()->toDateString();
+                $this->selectedDate = $date->copy()->subDay()->toDateString();
                 break;
             case 'week':
-                $this->selectedDate = $date->subWeek()->toDateString();
+                $this->selectedDate = $date->copy()->subWeek()->toDateString();
                 break;
             case 'month':
-                $this->selectedDate = $date->subMonth()->toDateString();
+                $this->selectedDate = $date->copy()->subMonth()->toDateString();
                 break;
         }
     }
@@ -72,13 +73,13 @@ class RoomBookingPage extends Component
         
         switch ($this->viewMode) {
             case 'day':
-                $this->selectedDate = $date->addDay()->toDateString();
+                $this->selectedDate = $date->copy()->addDay()->toDateString();
                 break;
             case 'week':
-                $this->selectedDate = $date->addWeek()->toDateString();
+                $this->selectedDate = $date->copy()->addWeek()->toDateString();
                 break;
             case 'month':
-                $this->selectedDate = $date->addMonth()->toDateString();
+                $this->selectedDate = $date->copy()->addMonth()->toDateString();
                 break;
         }
     }
@@ -113,6 +114,12 @@ class RoomBookingPage extends Component
 
     public function createBooking()
     {
+        // Only guru can create bookings
+        if (Session::get('room_role') !== 'guru' || !Session::has('guru_id')) {
+            session()->flash('error', 'Hanya guru yang dapat membuat booking.');
+            return;
+        }
+
         $this->validate();
 
         $room = Room::where('code', $this->roomCode)->firstOrFail();
@@ -146,6 +153,12 @@ class RoomBookingPage extends Component
 
     public function cancelBooking($bookingId)
     {
+        // Only guru can cancel bookings
+        if (Session::get('room_role') !== 'guru' || !Session::has('guru_id')) {
+            session()->flash('error', 'Hanya guru yang dapat membatalkan booking.');
+            return;
+        }
+
         $booking = RoomBooking::findOrFail($bookingId);
         
         // Only allow cancellation by the owner
@@ -173,8 +186,8 @@ class RoomBookingPage extends Component
                 ->orderBy('start_time')
                 ->get();
         } elseif ($this->viewMode === 'week') {
-            $startOfWeek = $date->copy()->startOfWeek();
-            $endOfWeek = $date->copy()->endOfWeek();
+            $startOfWeek = $date->copy()->startOfWeek()->toDateString();
+            $endOfWeek = $date->copy()->endOfWeek()->toDateString();
             
             $bookings = RoomBooking::where('room_id', $room->id)
                 ->whereBetween('booking_date', [$startOfWeek, $endOfWeek])
@@ -183,8 +196,8 @@ class RoomBookingPage extends Component
                 ->orderBy('start_time')
                 ->get();
         } else { // month
-            $startOfMonth = $date->copy()->startOfMonth();
-            $endOfMonth = $date->copy()->endOfMonth();
+            $startOfMonth = $date->copy()->startOfMonth()->toDateString();
+            $endOfMonth = $date->copy()->endOfMonth()->toDateString();
             
             $bookings = RoomBooking::where('room_id', $room->id)
                 ->whereBetween('booking_date', [$startOfMonth, $endOfMonth])
