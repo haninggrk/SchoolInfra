@@ -1,0 +1,60 @@
+name: Laravel + Vite CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Ambil kode dari GitHub
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Setup PHP (untuk Laravel)
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      # 3️⃣ Setup Node.js (untuk npm build)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # 4️⃣ Install dependencies
+      - name: Install Composer dependencies
+        run: composer install --no-dev --optimize-autoloader
+
+      - name: Install NPM dependencies
+        run: npm ci
+
+      # 5️⃣ Build frontend
+      - name: Build frontend assets
+        run: npm run build
+
+      # 6️⃣ Zip hasilnya (skip .env dan folder build sementara)
+        # hasil vite build ada di public/build/
+      - name: Package for deployment
+        run: zip -r deploy.zip . -x "*.git*" "node_modules/*" ".env" "storage/*"
+
+      # 7️⃣ Setup SSH ke server Hestia
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
+
+      # 8️⃣ Upload dan deploy ke server
+      - name: Upload and extract on server
+        run: |
+          scp -o StrictHostKeyChecking=no deploy.zip ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/home/${{ secrets.DEPLOY_USER }}/deploy.zip
+          ssh -o StrictHostKeyChecking=no ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} "
+            cd ~/web/app.domain.com/public_html &&
+            unzip -o ~/deploy.zip &&
+            rm ~/deploy.zip &&
+            php artisan optimize
+          "
