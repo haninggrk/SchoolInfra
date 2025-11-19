@@ -76,6 +76,13 @@
                 <p class="text-sm text-indigo-700">Kelola user (Guru, Housekeeping, Student)</p>
             </a>
             
+            <a href="{{ route('admin.students.index') }}" 
+               class="bg-yellow-50 hover:bg-yellow-100 border border-yellow-200 rounded-lg p-6 text-center transition-colors">
+                <i class="fas fa-user-graduate text-3xl text-yellow-600 mb-3"></i>
+                <h3 class="text-lg font-semibold text-yellow-900">Manajemen Siswa</h3>
+                <p class="text-sm text-yellow-700">Kelola data siswa dan import dari CSV</p>
+            </a>
+            
             <a href="{{ route('admin.room-schedule.index') }}" 
                class="bg-teal-50 hover:bg-teal-100 border border-teal-200 rounded-lg p-6 text-center transition-colors">
                 <i class="fas fa-calendar-alt text-3xl text-teal-600 mb-3"></i>

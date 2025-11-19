@@ -14,7 +14,7 @@ class RoomPelaporan extends Component
     use WithFileUploads;
 
     public $roomCode;
-    public $showReportForm = true;
+    public $showReportForm = false;
     
     // Form fields
     public $inventory_item_id = '';
@@ -39,6 +39,18 @@ class RoomPelaporan extends Component
         if (!Session::has('room_role')) {
             return redirect()->route('room.select-role', $roomCode);
         }
+    }
+
+    public function openReportForm()
+    {
+        $this->showReportForm = true;
+        $this->resetForm();
+    }
+
+    public function closeReportForm()
+    {
+        $this->showReportForm = false;
+        $this->resetForm();
     }
 
     public function resetForm()

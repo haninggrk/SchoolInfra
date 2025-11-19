@@ -13,6 +13,7 @@ class DamageReport extends Model
     protected $fillable = [
         'room_id',
         'inventory_item_id',
+        'student_id',
         'reporter_name',
         'reporter_class',
         'reporter_contact',
@@ -45,6 +46,14 @@ class DamageReport extends Model
     public function inventoryItem(): BelongsTo
     {
         return $this->belongsTo(InventoryItem::class);
+    }
+
+    /**
+     * Get the student who reported the damage.
+     */
+    public function student(): BelongsTo
+    {
+        return $this->belongsTo(\App\Models\Student::class);
     }
 
     /**

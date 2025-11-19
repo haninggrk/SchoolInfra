@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Pagination\Paginator;
 use Livewire\Livewire;
 
 class AppServiceProvider extends ServiceProvider
@@ -20,6 +21,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        // Use Tailwind pagination view
+        Paginator::defaultView('vendor.pagination.tailwind');
+        Paginator::defaultSimpleView('vendor.pagination.simple-tailwind');
+        
         // Register RoomAccess Livewire Components
         Livewire::component('room-inventaris', \Modules\RoomAccess\Http\Livewire\RoomInventaris::class);
         Livewire::component('room-monitoring', \Modules\RoomAccess\Http\Livewire\RoomMonitoring::class);

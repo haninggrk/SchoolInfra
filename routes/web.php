@@ -44,11 +44,13 @@ Route::prefix('{roomCode}')->name('room.')->group(function () {
     Route::post('/verify-access', [App\Http\Controllers\RoomAccessController::class, 'verifyAccessCode'])->name('verify-access-code');
     Route::get('/dashboard', [App\Http\Controllers\RoomAccessController::class, 'dashboard'])->name('dashboard');
     Route::get('/logout', [App\Http\Controllers\RoomAccessController::class, 'logout'])->name('logout');
+    Route::get('/search-students', [App\Http\Controllers\RoomAccessController::class, 'searchStudents'])->name('search-students');
     
     // Module routes
     Route::get('/inventaris', \Modules\RoomAccess\Http\Livewire\RoomInventaris::class)->name('inventaris');
     Route::get('/monitoring', \Modules\RoomAccess\Http\Livewire\RoomMonitoring::class)->name('monitoring');
-    Route::get('/pelaporan', \Modules\RoomAccess\Http\Livewire\RoomPelaporan::class)->name('pelaporan');
+    Route::get('/pelaporan', [App\Http\Controllers\RoomAccessController::class, 'pelaporan'])->name('pelaporan');
+    Route::post('/pelaporan', [App\Http\Controllers\RoomAccessController::class, 'storePelaporan'])->name('store-pelaporan');
     Route::get('/pantau-pelaporan', \Modules\RoomAccess\Http\Livewire\RoomPantauPelaporan::class)->name('pantau-pelaporan');
     Route::get('/jadwal', \Modules\RoomAccess\Http\Livewire\RoomJadwal::class)->name('jadwal');
     Route::get('/booking', \Modules\RoomAccess\Http\Livewire\RoomBookingPage::class)->name('booking');
@@ -95,6 +97,17 @@ Route::middleware(['auth'])->group(function () {
         Route::post('/', [UserController::class, 'store'])->name('store');
         Route::put('/{id}', [UserController::class, 'update'])->name('update');
         Route::delete('/{id}', [UserController::class, 'destroy'])->name('destroy');
+    });
+    
+    // Student Management routes (Admin only)
+    Route::prefix('admin/students')->name('admin.students.')->group(function () {
+        Route::get('/', [App\Http\Controllers\Admin\StudentController::class, 'index'])->name('index');
+        Route::get('/create', [App\Http\Controllers\Admin\StudentController::class, 'create'])->name('create');
+        Route::post('/', [App\Http\Controllers\Admin\StudentController::class, 'store'])->name('store');
+        Route::get('/import', [App\Http\Controllers\Admin\StudentController::class, 'showImport'])->name('import');
+        Route::post('/import', [App\Http\Controllers\Admin\StudentController::class, 'import'])->name('import.store');
+        Route::put('/{id}', [App\Http\Controllers\Admin\StudentController::class, 'update'])->name('update');
+        Route::delete('/{id}', [App\Http\Controllers\Admin\StudentController::class, 'destroy'])->name('destroy');
     });
     
     // Room Schedule routes (Admin only)
