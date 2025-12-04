@@ -15,12 +15,16 @@ class InventoryItem extends Model
         'room_id',
         'item_category',
         'item_type',
+        'item_type_id',
         'item_name',
         'barcode',
         'prefix',
         'qty',
         'unit',
         'date_added',
+        'purchase_date',
+        'last_maintenance_date',
+        'next_maintenance_date',
         'barcode_status',
         'status',
         'is_monitored',
@@ -29,6 +33,9 @@ class InventoryItem extends Model
 
     protected $casts = [
         'date_added' => 'date',
+        'purchase_date' => 'date',
+        'last_maintenance_date' => 'date',
+        'next_maintenance_date' => 'date',
         'qty' => 'integer',
         'is_monitored' => 'boolean',
     ];
@@ -39,6 +46,14 @@ class InventoryItem extends Model
     public function room(): BelongsTo
     {
         return $this->belongsTo(Room::class);
+    }
+
+    /**
+     * Get the item type for this inventory item.
+     */
+    public function itemTypeRelation(): BelongsTo
+    {
+        return $this->belongsTo(ItemType::class, 'item_type_id');
     }
 
     /**

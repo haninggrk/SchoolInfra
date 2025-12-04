@@ -74,6 +74,7 @@ Route::middleware(['auth'])->group(function () {
     // Monitoring routes
     Route::prefix('monitoring')->name('monitoring.')->group(function () {
         Route::get('/', \Modules\Monitoring\Http\Livewire\MonitoringIndex::class)->name('index');
+        Route::get('/item-types', \Modules\Monitoring\Http\Livewire\ItemTypeManagement::class)->name('item-types');
         Route::get('/{itemId}', \Modules\Monitoring\Http\Livewire\MonitoringDetail::class)->name('detail');
     });
     

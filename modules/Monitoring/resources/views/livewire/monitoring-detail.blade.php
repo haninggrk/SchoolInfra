@@ -1,9 +1,20 @@
 <div class="p-6">
     <div class="mb-6">
         <div class="flex items-center justify-between">
-            <div>
-                <h1 class="text-2xl font-bold text-gray-900">{{ $item->item_name }}</h1>
-                <p class="text-gray-600">{{ $item->item_type }} - {{ $item->item_category }}</p>
+            <div class="flex items-center space-x-4">
+                @if($item->itemTypeRelation && $item->itemTypeRelation->icon_url)
+                    <img src="{{ $item->itemTypeRelation->icon_url }}" 
+                         alt="{{ $item->item_name }}" 
+                         class="w-16 h-16 object-contain bg-gray-100 rounded-lg p-2">
+                @else
+                    <div class="w-16 h-16 bg-gray-100 rounded-lg flex items-center justify-center">
+                        <i class="fas fa-box text-gray-400 text-3xl"></i>
+                    </div>
+                @endif
+                <div>
+                    <h1 class="text-2xl font-bold text-gray-900">{{ $item->item_name }}</h1>
+                    <p class="text-gray-600">{{ $item->item_type }} - {{ $item->item_category }}</p>
+                </div>
             </div>
             <div class="flex space-x-2">
                 <a href="{{ route('monitoring.index') }}" 
@@ -52,8 +63,35 @@
                 </div>
                 <div>
                     <dt class="text-sm font-medium text-gray-500">{{ __('monitoring.date_added') }}</dt>
-                    <dd class="text-sm text-gray-900">{{ $item->date_added->format('d/m/Y') }}</dd>
+                    <dd class="text-sm text-gray-900">{{ $item->date_added ? $item->date_added->format('d/m/Y') : '-' }}</dd>
                 </div>
+                @if($item->purchase_date)
+                <div>
+                    <dt class="text-sm font-medium text-gray-500">Tanggal Pembelian</dt>
+                    <dd class="text-sm text-gray-900">{{ $item->purchase_date->format('d/m/Y') }}</dd>
+                </div>
+                @endif
+                @if($item->last_maintenance_date)
+                <div>
+                    <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Terakhir</dt>
+                    <dd class="text-sm text-gray-900">{{ $item->last_maintenance_date->format('d/m/Y') }}</dd>
+                </div>
+                @endif
+                @if($item->next_maintenance_date)
+                <div>
+                    <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Selanjutnya</dt>
+                    <dd class="text-sm text-gray-900">
+                        {{ $item->next_maintenance_date->format('d/m/Y') }}
+                        @if($item->next_maintenance_date->isPast())
+                            <span class="ml-2 text-red-600 text-xs font-semibold">(Terlambat)</span>
+                        @elseif($item->next_maintenance_date->isToday())
+                            <span class="ml-2 text-yellow-600 text-xs font-semibold">(Hari ini)</span>
+                        @elseif($item->next_maintenance_date->diffInDays(now()) <= 7)
+                            <span class="ml-2 text-orange-600 text-xs font-semibold">(Mendekati - {{ $item->next_maintenance_date->diffInDays(now()) }} hari lagi)</span>
+                        @endif
+                    </dd>
+                </div>
+                @endif
             </dl>
         </div>
 

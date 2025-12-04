@@ -72,7 +72,7 @@ class MonitoringIndex extends Component
     
     public function showDetail($itemId)
     {
-        $this->selectedItem = InventoryItem::with('room')->findOrFail($itemId);
+        $this->selectedItem = InventoryItem::with(['room', 'itemTypeRelation'])->findOrFail($itemId);
         $this->showModal = true;
     }
     
@@ -116,7 +116,7 @@ class MonitoringIndex extends Component
 
     public function render()
     {
-        $query = InventoryItem::with('room')
+        $query = InventoryItem::with(['room', 'itemTypeRelation'])
             ->digital()
             ->activeBarcode();
 

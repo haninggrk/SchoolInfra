@@ -42,6 +42,7 @@ class ModuleServiceProvider extends ServiceProvider
         // Monitoring Module
         Livewire::component('monitoring-index', \Modules\Monitoring\Http\Livewire\MonitoringIndex::class);
         Livewire::component('monitoring-detail', \Modules\Monitoring\Http\Livewire\MonitoringDetail::class);
+        Livewire::component('item-type-management', \Modules\Monitoring\Http\Livewire\ItemTypeManagement::class);
         
         // Pelaporan Module
         Livewire::component('pelaporan-index', \Modules\Pelaporan\Http\Livewire\PelaporanIndex::class);
