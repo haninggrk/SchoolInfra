@@ -65,34 +65,82 @@
                     <dt class="text-sm font-medium text-gray-500">{{ __('monitoring.date_added') }}</dt>
                     <dd class="text-sm text-gray-900">{{ $item->date_added ? $item->date_added->format('d/m/Y') : '-' }}</dd>
                 </div>
-                @if($item->purchase_date)
-                <div>
-                    <dt class="text-sm font-medium text-gray-500">Tanggal Pembelian</dt>
-                    <dd class="text-sm text-gray-900">{{ $item->purchase_date->format('d/m/Y') }}</dd>
-                </div>
-                @endif
-                @if($item->last_maintenance_date)
-                <div>
-                    <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Terakhir</dt>
-                    <dd class="text-sm text-gray-900">{{ $item->last_maintenance_date->format('d/m/Y') }}</dd>
-                </div>
-                @endif
-                @if($item->next_maintenance_date)
-                <div>
-                    <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Selanjutnya</dt>
-                    <dd class="text-sm text-gray-900">
-                        {{ $item->next_maintenance_date->format('d/m/Y') }}
-                        @if($item->next_maintenance_date->isPast())
-                            <span class="ml-2 text-red-600 text-xs font-semibold">(Terlambat)</span>
-                        @elseif($item->next_maintenance_date->isToday())
-                            <span class="ml-2 text-yellow-600 text-xs font-semibold">(Hari ini)</span>
-                        @elseif($item->next_maintenance_date->diffInDays(now()) <= 7)
-                            <span class="ml-2 text-orange-600 text-xs font-semibold">(Mendekati - {{ $item->next_maintenance_date->diffInDays(now()) }} hari lagi)</span>
+                <!-- Maintenance Dates Section -->
+                <div class="col-span-full border-t pt-4 mt-4">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-base font-semibold text-gray-900">Maintenance</h3>
+                        @if(!$isEditingDates)
+                            <button wire:click="toggleEditDates" 
+                                    class="px-3 py-1 text-xs bg-blue-100 text-blue-700 rounded hover:bg-blue-200">
+                                <i class="fas fa-edit mr-1"></i>Edit
+                            </button>
                         @endif
-                    </dd>
+                    </div>
+
+                    @if($isEditingDates)
+                        <div class="space-y-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1">Tanggal Pembelian</label>
+                                <input type="date" wire:model="purchase_date" 
+                                       class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1">Tanggal Maintenance Terakhir</label>
+                                <input type="date" wire:model="last_maintenance_date" 
+                                       class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700 mb-1">Tanggal Maintenance Selanjutnya</label>
+                                <input type="date" wire:model="next_maintenance_date" 
+                                       class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            </div>
+                            <div class="flex space-x-2 pt-2">
+                                <button wire:click="saveMaintenanceDates" 
+                                        class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 text-sm">
+                                    Simpan
+                                </button>
+                                <button wire:click="toggleEditDates" 
+                                        class="px-4 py-2 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 text-sm">
+                                    Batal
+                                </button>
+                            </div>
+                        </div>
+                    @else
+                        <div class="space-y-3">
+                            <div>
+                                <dt class="text-sm font-medium text-gray-500">Tanggal Pembelian</dt>
+                                <dd class="text-sm text-gray-900 mt-1">
+                                    {{ $item->purchase_date ? $item->purchase_date->format('d/m/Y') : '-' }}
+                                </dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Terakhir</dt>
+                                <dd class="text-sm text-gray-900 mt-1">
+                                    {{ $item->last_maintenance_date ? $item->last_maintenance_date->format('d/m/Y') : '-' }}
+                                </dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-medium text-gray-500">Tanggal Maintenance Selanjutnya</dt>
+                                <dd class="text-sm text-gray-900 mt-1">
+                                    @if($item->next_maintenance_date)
+                                        {{ $item->next_maintenance_date->format('d/m/Y') }}
+                                        @if($item->next_maintenance_date->isPast())
+                                            <span class="ml-2 text-red-600 text-xs font-semibold">(Terlambat)</span>
+                                        @elseif($item->next_maintenance_date->isToday())
+                                            <span class="ml-2 text-yellow-600 text-xs font-semibold">(Hari ini)</span>
+                                        @elseif($item->next_maintenance_date->diffInDays(now()) <= 7)
+                                            <span class="ml-2 text-orange-600 text-xs font-semibold">(Mendekati - {{ $item->next_maintenance_date->diffInDays(now()) }} hari lagi)</span>
+                                        @endif
+                                    @else
+                                        -
+                                    @endif
+                                </dd>
+                            </div>
+                        </div>
+                    @endif
                 </div>
-                @endif
             </dl>
+            
         </div>
 
         <!-- Status and Actions -->
@@ -124,14 +172,6 @@
                         {{ __('common.status_repairing') }}
                     </button>
                 </div>
-            </div>
-
-            <!-- Barcode Status -->
-            <div class="mb-4">
-                <label class="block text-sm font-medium text-gray-700 mb-2">{{ __('monitoring.barcode_status') }}</label>
-                <span class="inline-flex px-3 py-1 text-sm font-semibold rounded-full {{ $item->barcode_status === 'active' ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800' }}">
-                    {{ $item->barcode_status === 'active' ? __('common::common.status_active') : __('common::common.status_inactive') }}
-                </span>
             </div>
 
             <!-- Notes -->

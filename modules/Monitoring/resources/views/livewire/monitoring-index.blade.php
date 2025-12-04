@@ -351,13 +351,6 @@
                                 </span>
                             </div>
 
-                            <div>
-                                <label class="block text-xs font-medium text-gray-500 mb-1">{{ __('monitoring.barcode_status') }}</label>
-                                <span class="inline-flex px-2 py-1 text-xs font-semibold rounded-full {{ $selectedItem->barcode_status == 'active' ? 'bg-green-100 text-green-800' : 'bg-gray-100 text-gray-800' }}">
-                                    {{ ucfirst($selectedItem->barcode_status) }}
-                                </span>
-                            </div>
-
                             @if($selectedItem->notes)
                                 <div class="sm:col-span-2">
                                     <label class="block text-xs font-medium text-gray-500 mb-1">{{ __('monitoring.notes') }}</label>
