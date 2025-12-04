@@ -6,7 +6,9 @@ use Livewire\Component;
 use Livewire\WithPagination;
 use Livewire\WithFileUploads;
 use Modules\Shared\Models\ItemType;
+use Modules\Shared\Models\InventoryItem;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\DB;
 
 class ItemTypeManagement extends Component
 {
@@ -37,15 +39,16 @@ class ItemTypeManagement extends Component
         $this->resetPage();
     }
 
-    public function openModal($id = null)
+    public function openModal($name = null)
     {
-        if ($id) {
-            $itemType = ItemType::findOrFail($id);
-            $this->editingId = $id;
-            $this->name = $itemType->name;
-            $this->description = $itemType->description;
-            $this->is_active = $itemType->is_active;
-            $this->existingIconPath = $itemType->icon_path;
+        if ($name) {
+            // Find existing ItemType or create new one from name
+            $itemType = ItemType::firstOrNew(['name' => $name]);
+            $this->editingId = $itemType->id;
+            $this->name = $itemType->name ?? $name;
+            $this->description = $itemType->description ?? '';
+            $this->is_active = $itemType->is_active ?? true;
+            $this->existingIconPath = $itemType->icon_path ?? null;
         } else {
             $this->resetForm();
         }
@@ -93,21 +96,29 @@ class ItemTypeManagement extends Component
             $data['icon_path'] = null;
         }
 
-        if ($this->editingId) {
-            $itemType = ItemType::findOrFail($this->editingId);
-            $itemType->update($data);
+        // Use updateOrCreate to handle both new and existing item types
+        $itemType = ItemType::updateOrCreate(
+            ['name' => $this->name],
+            $data
+        );
+        
+        if ($this->editingId && $itemType->wasRecentlyCreated === false) {
             session()->flash('message', 'Tipe barang berhasil diperbarui.');
         } else {
-            ItemType::create($data);
             session()->flash('message', 'Tipe barang berhasil ditambahkan.');
         }
 
         $this->closeModal();
     }
 
-    public function delete($id)
+    public function delete($name)
     {
-        $itemType = ItemType::findOrFail($id);
+        $itemType = ItemType::where('name', $name)->first();
+        
+        if (!$itemType) {
+            session()->flash('error', 'Tipe barang tidak ditemukan.');
+            return;
+        }
         
         // Check if item type is being used
         if ($itemType->inventoryItems()->count() > 0) {
@@ -124,22 +135,63 @@ class ItemTypeManagement extends Component
         session()->flash('message', 'Tipe barang berhasil dihapus.');
     }
 
-    public function toggleActive($id)
+    public function toggleActive($name)
     {
-        $itemType = ItemType::findOrFail($id);
+        $itemType = ItemType::firstOrCreate(['name' => $name], ['is_active' => true]);
         $itemType->update(['is_active' => !$itemType->is_active]);
         session()->flash('message', 'Status tipe barang berhasil diperbarui.');
     }
 
     public function render()
     {
-        $query = ItemType::query();
+        // Get all unique item types from inventory_items
+        $existingItemTypes = InventoryItem::whereNotNull('item_type')
+            ->where('item_type', '!=', '')
+            ->distinct()
+            ->pluck('item_type')
+            ->toArray();
 
+        // Get all item types from item_types table
+        $itemTypesWithData = ItemType::all()->keyBy('name');
+
+        // Combine: get all unique names and merge with item_types data
+        $allItemTypeNames = array_unique($existingItemTypes);
+        
+        // Create collection with all item types
+        $itemTypesCollection = collect($allItemTypeNames)->map(function ($name) use ($itemTypesWithData) {
+            $itemType = $itemTypesWithData->get($name);
+            
+            return (object) [
+                'name' => $name,
+                'icon_path' => $itemType ? $itemType->icon_path : null,
+                'description' => $itemType ? $itemType->description : null,
+                'is_active' => $itemType ? $itemType->is_active : true,
+                'id' => $itemType ? $itemType->id : null,
+                'item_count' => InventoryItem::where('item_type', $name)->count(),
+            ];
+        });
+
+        // Apply search filter
         if ($this->search) {
-            $query->where('name', 'like', '%' . $this->search . '%');
+            $itemTypesCollection = $itemTypesCollection->filter(function ($itemType) {
+                return stripos($itemType->name, $this->search) !== false;
+            });
         }
 
-        $itemTypes = $query->orderBy('name')->paginate(15);
+        // Sort and paginate manually
+        $sorted = $itemTypesCollection->sortBy('name')->values();
+        $currentPage = request()->get('page', 1);
+        $perPage = 15;
+        $offset = ($currentPage - 1) * $perPage;
+        $currentItems = $sorted->slice($offset, $perPage)->values();
+        
+        $itemTypes = new \Illuminate\Pagination\LengthAwarePaginator(
+            $currentItems,
+            $sorted->count(),
+            $perPage,
+            $currentPage,
+            ['path' => request()->url(), 'query' => request()->query()]
+        );
 
         return view('monitoring::livewire.item-type-management', [
             'itemTypes' => $itemTypes,
