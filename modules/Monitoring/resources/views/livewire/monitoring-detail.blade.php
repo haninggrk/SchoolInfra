@@ -2,8 +2,8 @@
     <div class="mb-6">
         <div class="flex items-center justify-between">
             <div class="flex items-center space-x-4">
-                @if($item->itemTypeRelation && $item->itemTypeRelation->icon_url)
-                    <img src="{{ $item->itemTypeRelation->icon_url }}" 
+                @if($item->item_type_template && $item->item_type_template->icon_url)
+                    <img src="{{ $item->item_type_template->icon_url }}" 
                          alt="{{ $item->item_name }}" 
                          class="w-16 h-16 object-contain bg-gray-100 rounded-lg p-2">
                 @else

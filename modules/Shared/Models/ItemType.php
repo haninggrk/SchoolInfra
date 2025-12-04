@@ -22,11 +22,11 @@ class ItemType extends Model
     ];
 
     /**
-     * Get the inventory items for this item type.
+     * Get the inventory items for this item type (by name matching).
      */
     public function inventoryItems(): HasMany
     {
-        return $this->hasMany(InventoryItem::class);
+        return $this->hasMany(InventoryItem::class, 'item_type', 'name');
     }
 
     /**

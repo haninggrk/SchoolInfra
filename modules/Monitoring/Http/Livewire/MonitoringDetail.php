@@ -13,7 +13,7 @@ class MonitoringDetail extends Component
     public function mount($itemId)
     {
         $this->itemId = $itemId;
-        $this->item = InventoryItem::with(['room', 'itemTypeRelation'])->findOrFail($itemId);
+        $this->item = InventoryItem::with('room')->findOrFail($itemId);
     }
 
     public function updateStatus($status)

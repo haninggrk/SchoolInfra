@@ -15,7 +15,6 @@ class InventoryItem extends Model
         'room_id',
         'item_category',
         'item_type',
-        'item_type_id',
         'item_name',
         'barcode',
         'prefix',
@@ -49,11 +48,17 @@ class InventoryItem extends Model
     }
 
     /**
-     * Get the item type for this inventory item.
+     * Get the item type template (for icon lookup) based on item_type name.
      */
-    public function itemTypeRelation(): BelongsTo
+    public function getItemTypeTemplateAttribute()
     {
-        return $this->belongsTo(ItemType::class, 'item_type_id');
+        if (!$this->item_type) {
+            return null;
+        }
+        
+        return ItemType::where('name', $this->item_type)
+            ->where('is_active', true)
+            ->first();
     }
 
     /**

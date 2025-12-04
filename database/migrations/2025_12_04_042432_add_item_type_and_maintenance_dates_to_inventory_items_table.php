@@ -12,9 +12,6 @@ return new class extends Migration
     public function up(): void
     {
         Schema::table('inventory_items', function (Blueprint $table) {
-            // Add foreign key for item_type_id (optional, can be null for backwards compatibility)
-            $table->foreignId('item_type_id')->nullable()->after('item_type')->constrained('item_types')->onDelete('set null');
-            
             // Add maintenance dates (only for monitored items)
             $table->date('purchase_date')->nullable()->after('date_added');
             $table->date('last_maintenance_date')->nullable()->after('purchase_date');
@@ -28,8 +25,7 @@ return new class extends Migration
     public function down(): void
     {
         Schema::table('inventory_items', function (Blueprint $table) {
-            $table->dropForeign(['item_type_id']);
-            $table->dropColumn(['item_type_id', 'purchase_date', 'last_maintenance_date', 'next_maintenance_date']);
+            $table->dropColumn(['purchase_date', 'last_maintenance_date', 'next_maintenance_date']);
         });
     }
 };

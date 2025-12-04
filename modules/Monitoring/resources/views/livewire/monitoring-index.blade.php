@@ -138,8 +138,8 @@
                             <tr class="hover:bg-gray-50 cursor-pointer" wire:click="showDetail({{ $item->id }})">
                                 <td class="px-3 md:px-6 py-2 md:py-4 whitespace-nowrap">
                                     <div class="flex items-center justify-center">
-                                        @if($item->itemTypeRelation && $item->itemTypeRelation->icon_url)
-                                            <img src="{{ $item->itemTypeRelation->icon_url }}" 
+                                        @if($item->item_type_template && $item->item_type_template->icon_url)
+                                            <img src="{{ $item->item_type_template->icon_url }}" 
                                                  alt="{{ $item->item_name }}" 
                                                  class="w-10 h-10 md:w-12 md:h-12 object-contain">
                                         @else
@@ -202,8 +202,8 @@
                         <div class="flex items-center space-x-3 flex-1 min-w-0 pr-2">
                             <!-- Icon -->
                             <div class="flex-shrink-0">
-                                @if($item->itemTypeRelation && $item->itemTypeRelation->icon_url)
-                                    <img src="{{ $item->itemTypeRelation->icon_url }}" 
+                                @if($item->item_type_template && $item->item_type_template->icon_url)
+                                    <img src="{{ $item->item_type_template->icon_url }}" 
                                          alt="{{ $item->item_name }}" 
                                          class="w-12 h-12 object-contain">
                                 @else
